@@ -1,0 +1,368 @@
+{
+	"ret": true,
+	"data":{
+		"primaryinfo":["全部分类","推荐排序"],
+		"subnavinfo":[
+			{
+				"title":"全部分类",
+				"link":"",
+				"icon":"",
+				"visitedNum":9999,
+				"content":[
+					{
+						"itemtitle":"全部分类",
+						"link":"",
+						"visitedNum":123
+					}
+				],
+				"link":""
+			},
+			{
+				"title":"运动健身",
+				"icon":"",
+				"visitedNum":999,
+				"content":[
+					{
+						"itemtitle":"全部运动健身",
+						"link":"",
+						"visitedNum":123
+
+
+					},{
+						"itemtitle":"游泳",
+						"link":"",
+						"visitedNum":123
+
+					},
+					{
+						"itemtitle":"健身",
+						"link":"",
+						"visitedNum":123
+
+					},
+					{
+						"itemtitle":"滑雪",
+						"link":"",
+						"visitedNum":123
+
+					},
+					{
+						"itemtitle":"体育馆",
+						"link":"",
+						"visitedNum":123
+
+					},
+					{
+						"itemtitle":"瑜伽",
+						"link":"",
+						"visitedNum":123
+
+					},
+					{
+						"itemtitle":"保龄球",
+						"link":"",
+						"visitedNum":123
+
+					},{
+						"itemtitle":"舞蹈",
+						"link":"",
+						"visitedNum":123
+
+					},
+					{
+						"itemtitle":"潜水",
+						"link":"",
+						"visitedNum":123
+
+					}
+				
+				],
+				"link":""
+		
+
+			},
+			{
+				"title":"文化古迹",
+				"icon":"",
+				"visitedNum":999,
+				"content":[
+					{
+						"itemtitle":"全部文化古迹",
+						"link":"",
+						"visitedNum":123
+
+
+					},{
+						"itemtitle":"恐怖古宅",
+						"link":"",
+						"visitedNum":123
+
+					},
+					{
+						"itemtitle":"惊悚山村",
+						"link":"",
+						"visitedNum":123
+
+					},
+					{
+						"itemtitle":"荒芜古庙",
+						"link":"",
+						"visitedNum":123
+
+					},
+					{
+						"itemtitle":"吓人遗址",
+						"link":"",
+						"visitedNum":123
+
+					},
+					{
+						"itemtitle":"奈何古桥",
+						"link":"",
+						"visitedNum":123
+
+					},
+					{
+						"itemtitle":"山村老湿",
+						"link":"",
+						"visitedNum":123
+
+					},
+					{
+						"itemtitle":"丽影古墓",
+						"link":"",
+						"visitedNum":123
+
+					},
+					{
+						"itemtitle":"幽灵森林",
+						"link":"",
+						"visitedNum":123
+
+					},
+					{
+						"itemtitle":"三亚",
+						"link":"",
+						"visitedNum":123
+					}
+				
+				],
+				"link":""
+			
+			},
+			{
+				"title":"餐饮行业",
+				"icon":"",
+				"visitedNum":999,
+				"content":[
+					{
+						"itemtitle":"全部餐饮行业",
+						"link":"",
+						"visitedNum":123
+
+
+					},{
+						"itemtitle":"海鲜",
+						"link":"",
+						"visitedNum":123
+
+					},
+					{
+						"itemtitle":"自助",
+						"link":"",
+						"visitedNum":123
+
+					}
+					
+				],
+				"link":""
+			
+
+			},
+			{
+				"title":"水上玩乐",
+				"icon":"",
+				"visitedNum":999,
+				"content":[
+					{
+						"itemtitle":"全部水上玩了",
+						"link":"",
+						"visitedNum":123
+
+
+					},{
+						"itemtitle":"潜水",
+						"link":"",
+						"visitedNum":123
+
+					},
+					{
+						"itemtitle":"水上项目",
+						"link":"",
+						"visitedNum":123
+
+					},
+					{
+						"itemtitle":"韦小宝体验",
+						"link":"",
+						"visitedNum":123
+
+					}
+				
+				
+				],
+				"link":""
+		
+
+			},
+			{
+				"title":"公园",
+				"icon":"",
+				"visitedNum":999,
+				"content":[
+					{
+						"itemtitle":"全部公园",
+						"link":"",
+						"visitedNum":123
+
+
+					},{
+						"itemtitle":"动物园",
+						"link":"",
+						"visitedNum":123
+
+					}
+					
+				],
+				"link":""
+		
+
+			},
+			{
+				"title":"游乐场",
+				"icon":"",
+				"visitedNum":999,
+				"content":[
+					{
+						"itemtitle":"全部游乐场",
+						"link":"",
+						"visitedNum":123
+
+
+					},{
+						"itemtitle":"主题公园",
+						"link":"",
+						"visitedNum":123
+
+					},
+					{
+						"itemtitle":"儿童团乐园",
+						"link":"",
+						"visitedNum":123
+
+					}
+					
+					
+				
+				],
+				"link":""
+		
+
+			},
+			{
+				"title":"农村度假",
+				"icon":"",
+				"visitedNum":999,
+				"content":[
+					{
+						"itemtitle":"全部农村度假",
+						"link":"",
+						"visitedNum":123
+
+
+					},{
+						"itemtitle":"庄园",
+						"link":"",
+						"visitedNum":123
+
+					},
+					{
+						"itemtitle":"植物园",
+						"link":"",
+						"visitedNum":123
+
+					}
+					
+				
+				],
+				"link":""
+		
+
+			},
+			{
+				"title":"cs游戏",
+				"icon":"",
+				"visitedNum":999,
+				"content":[
+					{
+						"itemtitle":"全部cs游戏",
+						"link":"",
+						"visitedNum":123
+
+
+					},{
+						"itemtitle":"被男的杀",
+						"link":"",
+						"visitedNum":123
+
+					},
+					{
+						"itemtitle":"被女的杀",
+						"link":"",
+						"visitedNum":123
+
+					},
+					{
+						"itemtitle":"被刀杀",
+						"link":"",
+						"visitedNum":123
+
+					},
+					{
+						"itemtitle":"被枪杀",
+						"link":"",
+						"visitedNum":123
+
+					},
+					{
+						"itemtitle":"被三星手雷杀",
+						"link":"",
+						"visitedNum":123
+
+					},
+					{
+						"itemtitle":"被队友杀",
+						"link":"",
+						"visitedNum":123
+
+					},{
+						"itemtitle":"被人质杀",
+						"link":"",
+						"visitedNum":123
+
+					},
+					{
+						"itemtitle":"自杀",
+						"link":"",
+						"visitedNum":123
+
+					}
+				
+				],
+				"link":""
+				
+
+			}
+		]
+	}
+}

@@ -1,0 +1,71 @@
+{
+	"ret":true,
+	"data":[
+		{
+			"currentTime":"2017-07-11 12:01:59",
+			"isLogin":false,
+			"bookingNewSwitch":"1",
+			"campaignProductDtoList":[
+				{
+					"productId":1201753986,
+					"status":"ON_SALE",
+					"startTime":"2016-09-30 14:29:04",
+					"endTime":null,
+					"lotteryDelayMinutes":2,
+					"issue":3821194515,
+					"productName":"甘肃热门（月牙泉、嘉峪关、地质公园3选1）成人票一张",
+					"total":190,
+					"remain":9,
+					"image":"//img1.qunarzz.com/piao/fusion/1609/bf/b44299873903e802.jpg_292x180_43af4fba.jpg",
+					"onSale":true,
+					"productInclude":"中奖后，您可以选择兑换：A：鸣沙山月牙泉+敦煌古城成人联票一张；B：嘉峪关文物景区成人票一张；C：雅丹地质公园；注意，A、B、C中只能选择一张呦~\r\n",
+					"useTime":"",
+					"priceId":4250615842,
+					"seriesIndex":1,
+					"city":"甘肃",
+					"campaignId":3359532296
+				},{
+					"productId":617165215,"status":"ON_SALE","startTime":"2017-07-04 21:03:25","endTime":null,"lotteryDelayMinutes":2,"issue":3250240857,"productName":"上海东方明珠旋转餐厅自助晚餐成人票一张","total":420,"remain":106,"image":"//img1.qunarzz.com/piao/fusion/1609/74/359f8b06e383ea02.jpg_292x180_6d88e3a5.jpg","onSale":true,"productInclude":"1.东方明珠旋转餐厅自助晚餐1份；\r\n2.东方明珠登塔参观1张。","useTime":"","priceId":1477098056,"seriesIndex":10,"city":"上海","campaignId":2058737132
+				},{
+					"productId":2458819239,"status":"ON_SALE","startTime":"2017-07-07 23:15:15","endTime":null,"lotteryDelayMinutes":2,"issue":3303631694,"productName":"200元酒店代金券","total":220,"remain":57,"image":"//img1.qunarzz.com/piao/fusion/1609/6c/6349aa0152140c02.png_292x180_2277730f.png","onSale":true,"productInclude":"200元酒店代金券1张（可在酒店预付类产品中抵用）","useTime":"平日周末通用","priceId":3364111956,"seriesIndex":437,"city":"","campaignId":144074949
+				},{
+					"productId":3946935234,"status":"ON_SALE","startTime":"2017-07-08 21:46:43","endTime":null,"lotteryDelayMinutes":2,"issue":2614602546,"productName":"【减肥季】玫瑰情语 金边玫瑰花茶 60g*2瓶（包邮）","total":80,"remain":25,"image":"//img1.qunarzz.com/piao/fusion/1701/99/466b0355b9e17602.jpg_292x180_319025a6.jpg","onSale":true,"productInclude":"【减肥季】玫瑰情语 金边玫瑰花茶 60g*2瓶（包邮）金边玫瑰是玫瑰中的精品，云南的日晒让花香进一步转化，花香浓郁，且玫瑰花茶有调养气血、养颜护肤的功效。","useTime":"","priceId":1257420971,"seriesIndex":38,"city":"","campaignId":3815466987
+				},{
+					"productId":549648676,"status":"ON_SALE","startTime":"2016-09-19 14:10:04","endTime":null,"lotteryDelayMinutes":2,"issue":3749753126,"productName":"澳门英皇酒店御厨自助午餐 成人电子票一张","total":200,"remain":76,"image":"//img1.qunarzz.com/piao/fusion/1609/da/2ff1d9486688ed02.jpg_292x180_c6fb0207.jpg","onSale":true,"productInclude":"澳门英皇酒店御厨自助午餐成人电子票一张。\r\n","useTime":"","priceId":2978827204,"seriesIndex":1,"city":"澳门","campaignId":1582185439
+				},{
+					"productId":2706003650,"status":"ON_SALE","startTime":"2017-01-31 17:22:58","endTime":null,"lotteryDelayMinutes":2,"issue":1366761516,"productName":"深圳东部华侨城大峡谷+茶溪谷联票","total":320,"remain":130,"image":"//img1.qunarzz.com/piao/fusion/1609/a8/b9679262ff22e402.jpg_292x180_7346a373.jpg","onSale":true,"productInclude":"东部华侨城大侠谷+茶溪谷成人联票一张（含缆车、索道、小火车）\r\n","useTime":"平日及周末通用","priceId":629101748,"seriesIndex":35,"city":"深圳","campaignId":1841927987
+				},{
+					"productId":1772803680,"status":"ON_SALE","startTime":"2017-07-08 22:00:11","endTime":null,"lotteryDelayMinutes":2,"issue":552935101,"productName":"【休闲轻食】小苏州千禧福团 320g*2盒（包邮）","total":85,"remain":38,"image":"//img1.qunarzz.com/piao/fusion/1703/e8/7b7f5d4b277c9402.jpg_292x180_21c83942.jpg","onSale":true,"productInclude":"【小苏州】 千禧福团 320g*2盒 （包邮）千禧福团，不粘牙，香糯适口解馋饱腹，用心挑选优质纯正原料，松软的皮，淡淡的香，清甜可口，美味无比。\r\n\r\n","useTime":"","priceId":615498610,"seriesIndex":20,"city":"","campaignId":1069845752
+				},{
+					"productId":3835373425,"status":"ON_SALE","startTime":"2017-07-07 08:31:20","endTime":null,"lotteryDelayMinutes":2,"issue":3411639713,"productName":"【减肥季】六安瓜片 茶叶礼盒150g一盒 （包邮）","total":140,"remain":65,"image":"//img1.qunarzz.com/piao/fusion/1702/91/31a1ba37e0a20202.jpg_292x180_27c9d64e.jpg","onSale":true,"productInclude":"【减肥季】六安瓜片 茶叶礼盒150g一盒 （包邮）“六安瓜片”茶既可清心明目、提神消乏，还有利于减肥和清理肠道脂肪，清热除燥、排毒养颜。","useTime":"","priceId":2576058337,"seriesIndex":18,"city":"","campaignId":3141008793
+				},{
+					"productId":704686659,"status":"ON_SALE","startTime":"2017-06-17 14:28:15","endTime":null,"lotteryDelayMinutes":2,"issue":4225793353,"productName":"【鼓浪屿】福建厦门情定鼓浪屿5景点成人联票一张","total":120,"remain":56,"image":"//img1.qunarzz.com/piao/fusion/1611/21/b7b0e6fb3e34c502.jpg_292x180_2052077d.jpg","onSale":true,"productInclude":"福建厦门鼓浪屿5景点联票成人票一张，联票包含：【日光岩、菽庄花园、皓月园、风琴博物馆、国际刻字馆】。","useTime":"","priceId":2576604625,"seriesIndex":15,"city":"厦门","campaignId":3971037410
+				},{
+					"productId":324521057,"status":"ON_SALE","startTime":"2017-04-23 21:06:13","endTime":null,"lotteryDelayMinutes":2,"issue":2516572572,"productName":"成都地标（熊猫基地/杜甫草堂/武侯祠3选1）成人票","total":70,"remain":33,"image":"//img1.qunarzz.com/piao/fusion/1610/d9/9443a0250d1c4002.jpg_292x180_411b4e94.jpg","onSale":true,"productInclude":"中奖后可选择兑换：A：成都大熊猫繁殖基地成人票一张；B：成都杜甫草堂成人票一张；C：成都武侯祠成人票一张；C：成都大熊猫繁育研究基地成人票一张。A、B、C之中只能选一个哟~","useTime":"大熊猫繁殖基地开园时间：8:00～16:00。\r\n","priceId":977513715,"seriesIndex":26,"city":"成都","campaignId":1001544371
+				},{
+					"productId":538008445,"status":"ON_SALE","startTime":"2017-07-09 13:06:04","endTime":null,"lotteryDelayMinutes":2,"issue":3724761151,"productName":"200元现金券","total":220,"remain":104,"image":"//img1.qunarzz.com/piao/fusion/1609/51/b1e268dc8cd34e02.png_292x180_a2022f70.png","onSale":true,"productInclude":"200元消费金，可在去哪儿机票、酒店、火车票、门票以及度假频道购买预付类产品时使用。","useTime":"","priceId":3730980997,"seriesIndex":650,"city":"","campaignId":250211386
+				},{
+					"productId":1756174612,"status":"ON_SALE","startTime":"2017-01-16 14:51:42","endTime":null,"lotteryDelayMinutes":2,"issue":836005274,"productName":"【节后热销】梅香 合家宴礼盒 3198g （包邮）","total":390,"remain":186,"image":"//img1.qunarzz.com/piao/fusion/1701/87/80a462df6be57502.jpg_292x180_bc35fea4.jpg","onSale":true,"productInclude":"【梅香】 合家宴礼盒 3198g（凤香鸡600g、风香鸭550g、风香兔200g、咸蛋55g*8、香肠250g、香卤口条130g、风香鱼230g、五香牛肉250g、皮蛋55g*8、泡椒凤爪70g*2）","useTime":"","priceId":3646189767,"seriesIndex":1,"city":"","campaignId":1698376696
+				},{
+					"productId":1932341008,"status":"ON_SALE","startTime":"2017-03-27 08:26:36","endTime":null,"lotteryDelayMinutes":2,"issue":1690608087,"productName":"【稻香村】老北京糕点（驴打滚/坚果饼/沙琪玛3选1）包邮","total":70,"remain":34,"image":"//img1.qunarzz.com/piao/fusion/1610/ca/0c8f6bf9bf49c502.jpg_292x180_edd83ffe.jpg","onSale":true,"productInclude":"中奖后，您可以选择兑换：A：【稻香村】北京特色驴打滚黑芝麻味，360g*2盒；B：【稻香村】坚果纤维饼，200g*3盒；C：【稻香村】老北京传统糕点沙琪玛，454g*3袋。注意，A、B、C中只能选择一项奖品进行兑换呦~包邮哦！","useTime":"","priceId":2872840266,"seriesIndex":2,"city":"","campaignId":877476748
+				},{
+					"productId":3939201941,"status":"ON_SALE","startTime":"2017-07-09 00:23:18","endTime":null,"lotteryDelayMinutes":2,"issue":2895694499,"productName":"欢乐谷（北京、上海、深圳、成都4选1）成人票一张","total":300,"remain":149,"image":"//img1.qunarzz.com/piao/fusion/1609/e7/16adff316acfef02.jpg_292x180_79d6c909.jpg","onSale":true,"productInclude":"中奖后，您可以选择兑换：A：北京欢乐谷日场成人票一张；B：上海欢乐谷日场成人票一张；C：深圳欢乐谷日场成人票一张；D：成都欢乐谷日场成人票一张；注意，A、B、C、D中只能选择一张呦~","useTime":"","priceId":3310234383,"seriesIndex":35,"city":"欢乐谷","campaignId":194458549
+				},{
+					"productId":479324641,"status":"ON_SALE","startTime":"2017-05-29 15:47:34","endTime":null,"lotteryDelayMinutes":2,"issue":1350957419,"productName":"皇城范儿（故宫/颐和园/圆明园3选1）成人票一张","total":60,"remain":30,"image":"//img1.qunarzz.com/piao/fusion/1611/5b/80d319029e58df02.jpg_292x180_e526380f.jpg","onSale":true,"productInclude":"1、中奖后可选择兑换：A：北京故宫成人票一张；B：北京颐和园成人电子套票一张；C：北京圆明园成人电子套票一张；A、B、C中只能选一个哟~","useTime":"","priceId":487958721,"seriesIndex":42,"city":"北京","campaignId":3571788592
+				},{
+					"productId":2670973290,"status":"ON_SALE","startTime":"2017-02-15 00:23:09","endTime":null,"lotteryDelayMinutes":2,"issue":3300956254,"productName":"广州大沙头码头蓝海豚珠江夜游船票（四船任选）","total":55,"remain":30,"image":"//img1.qunarzz.com/piao/fusion/1609/84/374b90594d61a202.jpg_292x180_7b131dde.jpg","onSale":true,"productInclude":"1、蓝海豚珠江夜游船票一张。配送柠檬水，沙琪玛。\r\n2、座位由码头随机分配。\r\n3、蓝海豚游轮公司旗下的奇迹号、光大银行号、工银牡丹卡号、特步号中四选一的任意航班可用。4、自带食品、酒水、饮料上船，加收30%服务费；","useTime":"周末平时通用","priceId":888579334,"seriesIndex":9,"city":"广州","campaignId":2113599531
+				},{
+					"productId":4264883399,"status":"ON_SALE","startTime":"2017-03-22 11:14:42","endTime":null,"lotteryDelayMinutes":2,"issue":3404315342,"productName":"青山秀水（都江堰/青城山2选1）成人票一张","total":110,"remain":62,"image":"//img1.qunarzz.com/piao/fusion/1611/62/e1350604ee0b9102.jpg_292x180_a248d92f.jpg","onSale":true,"productInclude":"1、中奖后可选择兑换：A：成都都江堰成人票一张；B：成都青城山成人门票一张。A和B之中只能选一个哟~2、青城山门票只包含景区大门门票一张。","useTime":"都江堰：冬季（12月1日——3月1日）8：00—17：30；其它季节（3月2日——11月30日）8：00—18：00；\r\n青城山：冬季（12月1日——3月1日）8：00—17：30；其它季节（3月2日——11月30日）8：00—18：00\r\n","priceId":3003976122,"seriesIndex":6,"city":"成都","campaignId":2354224920
+				},{
+					"productId":3928540804,"status":"ON_SALE","startTime":"2016-11-29 17:03:55","endTime":null,"lotteryDelayMinutes":2,"issue":973272970,"productName":"【超热门】北京顺景温泉成人票一张（含餐）","total":350,"remain":204,"image":"//img1.qunarzz.com/piao/fusion/1611/c8/03480d69d1d10502.jpg_292x180_2faea4b1.jpg","onSale":true,"productInclude":"北京顺景温泉成人票一张（含1餐）（周末）。\r\n北京顺景温泉泉眼位于北京市朝阳区四环内四元桥附近的顺景园内。日前经过英国吉尼斯总部核准证书。高氟型矿质温泉水中，氟、铁、锰、偏硅酸等矿质含量丰富，水质滑腻。","useTime":"","priceId":2109095459,"seriesIndex":1,"city":"","campaignId":1638545223
+				},{
+					"productId":2114453042,"status":"ON_SALE","startTime":"2016-09-05 17:15:10","endTime":null,"lotteryDelayMinutes":2,"issue":2321887934,"productName":"欢乐海洋（海昌极地海洋公园/欢乐谷2选1）成人票一张","total":260,"remain":152,"image":"//img1.qunarzz.com/piao/fusion/1609/9b/d22abf925f961f02.jpg_292x180_82e969eb.jpg","onSale":true,"productInclude":"A：成都欢乐谷日场成人票一张；B：成都海昌极地海洋世界公园成人票（日场套票）1张，A和B只能选一个哟~","useTime":"","priceId":3187662621,"seriesIndex":1,"city":"成都","campaignId":3181437872
+				},{
+					"productId":1907937960,"status":"ON_SALE","startTime":"2016-09-30 01:56:41","endTime":null,"lotteryDelayMinutes":2,"issue":483304215,"productName":"京郊山林（天云山/京东石林峡2选1）成人票一张","total":85,"remain":50,"image":"//img1.qunarzz.com/piao/fusion/1609/6f/22d06da9511cb902.jpg_292x180_a8efb1ad.jpg","onSale":true,"productInclude":"A：北京天云山风景区成人票一张；B：北京石林峡风景区成人票一张。A和B能选一个哟~","useTime":"","priceId":968834452,"seriesIndex":2,"city":"北京","campaignId":3761773437
+				}
+			]
+		}
+	],
+	"errcode":null,
+	"errmsg":null
+}

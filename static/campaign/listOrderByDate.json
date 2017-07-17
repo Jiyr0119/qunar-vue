@@ -1,0 +1,27 @@
+{
+	"ret":true,
+	"data":[
+		{
+			"currentTime":"2017-07-11 12:07:15",
+			"isLogin":false,
+			"bookingNewSwitch":"1",
+			"campaignProductDtoList":[
+				{
+					"productId":617165215,"status":"ON_SALE","startTime":"2017-07-04 21:03:25","endTime":null,"lotteryDelayMinutes":2,"issue":3250240857,"productName":"上海东方明珠旋转餐厅自助晚餐成人票一张","total":420,"remain":106,"image":"//img1.qunarzz.com/piao/fusion/1609/74/359f8b06e383ea02.jpg_292x180_6d88e3a5.jpg","onSale":true,"productInclude":"1.东方明珠旋转餐厅自助晚餐1份；\r\n2.东方明珠登塔参观1张。","useTime":"","priceId":1477098056,"seriesIndex":10,"city":"上海","campaignId":2058737132
+				},{
+					"productId":1772803680,"status":"ON_SALE","startTime":"2017-07-08 22:00:11","endTime":null,"lotteryDelayMinutes":2,"issue":552935101,"productName":"【休闲轻食】小苏州千禧福团 320g*2盒（包邮）","total":85,"remain":38,"image":"//img1.qunarzz.com/piao/fusion/1703/e8/7b7f5d4b277c9402.jpg_292x180_21c83942.jpg","onSale":true,"productInclude":"【小苏州】 千禧福团 320g*2盒 （包邮）千禧福团，不粘牙，香糯适口解馋饱腹，用心挑选优质纯正原料，松软的皮，淡淡的香，清甜可口，美味无比。\r\n\r\n","useTime":"","priceId":615498610,"seriesIndex":20,"city":"","campaignId":1069845752
+				},{
+					"productId":3946935234,"status":"ON_SALE","startTime":"2017-07-08 21:46:43","endTime":null,"lotteryDelayMinutes":2,"issue":2614602546,"productName":"【减肥季】玫瑰情语 金边玫瑰花茶 60g*2瓶（包邮）","total":80,"remain":24,"image":"//img1.qunarzz.com/piao/fusion/1701/99/466b0355b9e17602.jpg_292x180_319025a6.jpg","onSale":true,"productInclude":"【减肥季】玫瑰情语 金边玫瑰花茶 60g*2瓶（包邮）金边玫瑰是玫瑰中的精品，云南的日晒让花香进一步转化，花香浓郁，且玫瑰花茶有调养气血、养颜护肤的功效。","useTime":"","priceId":1257420971,"seriesIndex":38,"city":"","campaignId":3815466987
+				},{
+					"productId":3835373425,"status":"ON_SALE","startTime":"2017-07-07 08:31:20","endTime":null,"lotteryDelayMinutes":2,"issue":3411639713,"productName":"【减肥季】六安瓜片 茶叶礼盒150g一盒 （包邮）","total":140,"remain":65,"image":"//img1.qunarzz.com/piao/fusion/1702/91/31a1ba37e0a20202.jpg_292x180_27c9d64e.jpg","onSale":true,"productInclude":"【减肥季】六安瓜片 茶叶礼盒150g一盒 （包邮）“六安瓜片”茶既可清心明目、提神消乏，还有利于减肥和清理肠道脂肪，清热除燥、排毒养颜。","useTime":"","priceId":2576058337,"seriesIndex":18,"city":"","campaignId":3141008793
+				},{
+					"productId":1553526006,"status":"ON_SALE","startTime":"2017-07-05 09:32:38","endTime":null,"lotteryDelayMinutes":2,"issue":4223374872,"productName":"【度假美餐】三亚亚龙湾度假世界“泰诱惑”主题2人套餐一份","total":465,"remain":353,"image":"//img1.qunarzz.com/piao/fusion/1609/8c/3f3c63d41e9c6e02.jpg_292x180_bbf1e6ce.jpg","onSale":true,"productInclude":"【费用包含】含2人泰式主题风味套餐1份\r\n【费用不含】已含15%服务费，不含往返交通费，不含餐内其它额外消费。\r\n【用餐须知】营业时间11:00-21:00，请您提前购买预约；\r\n【预订须知】：本产品2月12日在餐厅开始供应，价格若有变化，如需预订请咨询代理商010-81040391","useTime":"","priceId":1865877917,"seriesIndex":15,"city":"三亚","campaignId":2323228947
+				},{
+					"productId":1559244360,"status":"ON_SALE","startTime":"2017-07-10 14:09:36","endTime":null,"lotteryDelayMinutes":2,"issue":3327349362,"productName":"【去哪儿品牌】【限量】中国红小骆驼（1只装）包邮","total":45,"remain":29,"image":"//img1.qunarzz.com/piao/fusion/1701/74/199c81c29e5d9202.jpg_292x180_ecb600e6.jpg","onSale":true,"productInclude":"【去哪儿品牌】【限量】中国红小骆驼仅定制少量，预购从速，4号，包邮哦~","useTime":"","priceId":2650190256,"seriesIndex":66,"city":"","campaignId":2363098314
+				}
+			]
+		}
+	],
+	"errcode":null,
+	"errmsg":null	
+}

@@ -1,0 +1,27 @@
+{
+	"ret": true,
+	"data" : {
+		"productInfo":{
+			"ticketName": "北京热带雨林风情园温泉酒店+私汤泡池",
+			"imgUrl": "//img1.qunarzz.com/sight/p0/1501/eb/ebc33a1d2fe9a682.water.jpg",
+			"lowerPrice": 458,
+			"highMarketPrice": 1580,
+			"imgswiperInfo": [{
+                "title": "北京热带雨林风情园温泉酒店+私汤泡池",
+                "imgUrl": "//img1.qunarzz.com/sight/p0/1501/eb/ebc33a1d2fe9a682.water.jpg_550x250_30f5ed8d.jpg",
+                "imgAtl": "北京热带雨林风情园温泉酒店+私汤泡池",
+                "id": 1
+            },{
+                "title": "北京热带雨林风情园温泉酒店+私汤泡池",
+                "imgUrl": "//img1.qunarzz.com/sight/p0/1501/67/672d0f8d79bfdad0.water.jpg_550x250_7df500d5.jpg",
+                "imgAtl": "北京热带雨林风情园温泉酒店+私汤泡池",
+                "id": 2
+            },{
+                "title": "北京热带雨林风情园温泉酒店+私汤泡池",
+                "imgUrl": "//img1.qunarzz.com/sight/p0/201303/19/afb034c3c30d9eb7c8d65eac.jpg_550x250_b7f1f1ca.jpg",
+                "imgAtl": "北京热带雨林风情园温泉酒店+私汤泡池",
+                "id": 3
+            }]
+		}
+	}
+}

@@ -1,0 +1,30 @@
+{	
+	"ret": true,
+	"data": {
+		"campaignId": 2294894529,
+		"images": ["http://img1.qunarzz.com/piao/fusion/1701/1b/4bbbaf57b94ef702.jpg"],
+		"seriesId": 3906570646,
+		"status": "ONLINE",
+		"seriesStatus": "IN_PROCESS",
+		"campaignName": "200元火车代金券",
+		"totalCount": 220,
+		"remainCount": 167,
+		"productInclude": "200元火车代金券1张（可在火车预付类产品中抵用）\r\n",
+		"seriesIndex": 290,
+		"introduction": null,
+		"sightId": 459954,
+		"sightName": "火车票代金券",
+		"startTime": "2017-07-11 09: 47: 20",
+		"currentTime": "2017-07-13 17: 10: 04",
+		"openType": 7,
+		"openTime": null,
+		"productStatus": "on sale",
+		"luckyNumber": null,
+		"winner": null,
+		"myNumber": null,
+		"productId": 2383538886,
+		"priceId": 245099659,
+		"login": true,
+		"latestSeriesId": null
+	}
+}

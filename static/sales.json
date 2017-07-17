@@ -1,0 +1,369 @@
+{
+	"ret":true,
+	"data":{
+		"tickettitleInfo":[{
+			"headertext":"门票特卖",
+			"titletext":"促销门票"
+		}], 
+		"ticketproductInfo":[{
+    		"imgurl":"//img1.qunarzz.com/sight/p0/1706/3b/3b526315d769f5e3a3.img.png_640x266_798a4527.png",
+    		"lazyurl":"https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+    		"link":"",
+    		"cityname":"[北京]",
+    		"title":"[北京]北京亲子畅玩卡",
+    		"newPrice":29.9,
+    		"originPrice":198,
+    		"couponPrice":"",
+    		"hotsale":"热卖中",
+    		"coupontext":"赠券",
+    		"coupon":false
+    	},{
+    		"imgurl":"//img1.qunarzz.com/p/tts2/1606/b9/d6b338d2b7efd0f7.jpg_640x266_b71b0c7d.jpg",
+    		"lazyurl":"https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+    		"link":"",
+    		"cityname":"[北京]",
+    		"title":"[北京]【挑战360度玻璃观景台】平谷石林峡一日游",
+    		"newPrice":125,
+    		"originPrice":300,
+    		"couponPrice":"",
+    		"hotsale":"热卖中",
+    		"coupontext":"赠券",
+    		"coupon":false
+    	},{
+    		"imgurl":"//img1.qunarzz.com/p/tts4/1703/29/3d3d29034018db02.jpg_640x266_bcd86dd9.jpg",
+    		"lazyurl":"https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+    		"link":"",
+    		"cityname":"[北京]",
+    		"title":"[北京]【北京五大景点】广场+故宫+八达岭+鸟巢+水立方，配无线讲解",
+    		"newPrice":99,
+    		"originPrice":199,
+    		"couponPrice":2,
+    		"hotsale":"热卖中",
+    		"coupontext":"赠券",
+    		"coupon":true
+    	},{
+    		"imgurl":"//img1.qunarzz.com/p/tts5/1705/36/c0c777c8fea69502.jpg_640x266_d08a31fe.jpg",
+    		"lazyurl":"https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+    		"link":"",
+    		"cityname":"[北京]",
+    		"title":"[北京]【10-11点晚出发】八达岭长城+鸟巢水立方+什刹海一日游",
+    		"newPrice":99,
+    		"originPrice":199,
+    		"couponPrice":"",
+    		"hotsale":"热卖中",
+    		"coupontext":"赠券",
+    		"coupon":false
+    	},{
+    		"imgurl":"//img1.qunarzz.com/wugc/p50/201308/08/46794cf970fa2e2693835fbb.jpg_640x266_4bdc9d3e.jpg",
+    		"lazyurl":"https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",    		
+    		"link":"",
+    		"cityname":"[北京]",
+    		"title":"[北京]老舍茶馆京馆演出票（9排10排11排）",
+    		"newPrice":169,
+    		"originPrice":180,
+    		"couponPrice":"",
+    		"hotsale":"热卖中",
+    		"coupontext":"赠券",
+    		"coupon":false
+    	},{
+    		"imgurl":"//img1.qunarzz.com/sight/p0/1602/68/68aa05adb5315f9990.water.jpg_640x266_a251876f.jpg",
+    		"lazyurl":"https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",    		
+    		"link":"",
+    		"cityname":"[北京]",
+    		"title":"[北京]北京动物园+北京海洋馆（含熊猫馆）成人套票（团体票）",
+    		"newPrice":160,
+    		"originPrice":170,
+    		"couponPrice":"",
+    		"hotsale":"热卖中",
+    		"coupontext":"赠券",
+    		"coupon":false
+    	},{
+    		"imgurl":"//img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_640x266_2b7a22a0.jpg",
+    		"lazyurl":"https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+    		"link":"",
+    		"cityname":"[北京]",
+    		"title":"[北京]故宫全景手绘地图",
+    		"newPrice":10,
+    		"originPrice":10, 
+    		"couponPrice":"",
+    		"hotsale":"热卖中",
+    		"coupontext":"赠券",
+    		"coupon":false
+    	},{
+    		"imgurl":"//img1.qunarzz.com/sight/p0/1501/40/40b2b6c951b28fdd.water.jpg_640x266_c158dc59.jpg",
+     		"lazyurl":"https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",   		
+    		"link":"",
+    		"cityname":"[北京]",
+    		"title":"[北京]水立方成人票",
+    		"newPrice":30,
+    		"originPrice":30,
+    		"coupon":true,
+    		"hotsale":"热卖中",
+    		"coupontext":"赠券",
+    		"couponPrice":1
+    	}],
+		"hotTitleName": [{
+    		"navbarTitle":"热门推荐",
+    		"nowTitle": "当季热门"
+    	}],
+    	"hotTicketInfo": [{
+			"imgUrl": "//img1.qunarzz.com/sight/p0/1508/a5/4003f9dd7bebf61eccbf64046e26d487.water.jpg",
+			"imageSrc": "https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+			"title": "北京欢乐谷夜场-成人票",
+			"currentprice":"20",
+			"originprice":"180",
+			"link":""
+		},{
+			"imgUrl": "//img1.qunarzz.com/p/tts9/1705/ee/145854a55426dd02.jpg",
+			"imageSrc": "https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+			"title": "【10点晚出发，踏青纯玩】北京八达岭长城+鸟巢水立方一日游【儿童 不含餐 基础款不含缆车】",
+			"currentprice":"29",
+			"originprice":"99",
+			"link":""
+		},{
+			"imgUrl": "//img1.qunarzz.com/sight/p0/1508/5a/9a1e5c492dec4945ff05f24025323a44.water.jpg",
+			"imageSrc": "https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+			"title": "十渡仙山万水套票（成人票）",
+			"currentprice":"99",
+			"originprice":"340",
+			"link":""
+		},{
+			"imgUrl": "//img1.qunarzz.com/sight/p0/1602/92/920e47352552c1c990.water.jpg",
+			"imageSrc": "https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+			"title": "天坛公园—手机智能导游讲解（景点讲解）（不含门票）",
+			"currentprice":"3",
+			"originprice":"10",
+			"link":""
+		},{
+			"imgUrl": "//img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg",
+			"imageSrc": "https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+			"title": "【爆款】北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游【成人 含餐 普通版不含缆车】",
+			"currentprice":"169",
+			"originprice":"399",
+			"link":""
+		},{
+			"imgUrl": "//img1.qunarzz.com/sight/p0/1612/7f/7fc3a9f6b6c82a8ca3.water.jpg",
+			"imageSrc": "https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+			"title": "奥普乐主题水世界乐园单人票（周末节假日通用）",
+			"currentprice":"56",
+			"originprice":"128",
+			"link":""
+		},{
+			"imgUrl": "//img1.qunarzz.com/sight/p0/201405/29/16b6cc9ae84d94d67b5b0242370f47b5.jpg",
+			"imageSrc": "https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+			"title": "孤山寨风景区门票+铁索桥+竹筏（成人票）",
+			"currentprice":"59",
+			"originprice":"100",
+			"link":""
+		},{
+			"imgUrl": "//img1.qunarzz.com/sight/p0/1602/67/67feeab24cfc82bb90.water.jpg",
+			"imageSrc": "https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+			"title": "太平洋海底世界成人门票+海洋动物表演套票",
+			"currentprice":"100",
+			"originprice":"160",
+			"link":""
+		},{
+			"imgUrl": "//img1.qunarzz.com/sight/p0/1602/92/920e47352552c1c990.water.jpg",
+			"imageSrc": "https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+			"title": "天坛公园—手机智能导游讲解（景点讲解）（不含门票）",
+			"currentprice":"3",
+			"originprice":"10",
+			"link":""
+		},{
+			"imgUrl": "//img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg",
+			"imageSrc": "https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+			"title": "【爆款】北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游【成人 含餐 普通版不含缆车】",
+			"currentprice":"169",
+			"originprice":"399",
+			"link":""
+		},{
+			"imgUrl": "//img1.qunarzz.com/sight/p0/1508/5a/9a1e5c492dec4945ff05f24025323a44.water.jpg",
+			"imageSrc": "https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+			"title": "十渡仙山万水套票（成人票）",
+			"currentprice":"99",
+			"originprice":"340",
+			"link":""
+		},{
+			"imgUrl": "//img1.qunarzz.com/sight/p0/1602/92/920e47352552c1c990.water.jpg",
+			"imageSrc": "https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+			"title": "天坛公园—手机智能导游讲解（景点讲解）（不含门票）",
+			"currentprice":"3",
+			"originprice":"10",
+			"link":""
+		},{
+			"imgUrl": "//img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg",
+			"imageSrc": "https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+			"title": "【爆款】北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游【成人 含餐 普通版不含缆车】",
+			"currentprice":"169",
+			"originprice":"399",
+			"link":""
+		},{
+			"imgUrl": "//img1.qunarzz.com/sight/p0/1508/5a/9a1e5c492dec4945ff05f24025323a44.water.jpg",
+			"imageSrc": "https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+			"title": "十渡仙山万水套票（成人票）",
+			"currentprice":"99",
+			"originprice":"340",
+			"link":""
+		},{
+			"imgUrl": "//img1.qunarzz.com/sight/p0/1602/92/920e47352552c1c990.water.jpg",
+			"imageSrc": "https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+			"title": "天坛公园—手机智能导游讲解（景点讲解）（不含门票）",
+			"currentprice":"3",
+			"originprice":"10",
+			"link":""
+		},{
+			"imgUrl": "//img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg",
+			"imageSrc": "https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+			"title": "【爆款】北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游【成人 含餐 普通版不含缆车】",
+			"currentprice":"169",
+			"originprice":"399",
+			"link":""
+		}],
+		"ticketproductInfoshanghai":[{
+			"imgurl":"//img1.qunarzz.com/p/tts2/1606/b9/d6b338d2b7efd0f7.jpg_640x266_b71b0c7d.jpg",
+    		"lazyurl":"https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+    		"link":"",
+    		"cityname":"[上海]",
+    		"title":"[上海]亲子畅玩卡",
+    		"newPrice":29.9,
+    		"originPrice":198,
+    		"couponPrice":"",
+    		"hotsale":"热卖中",
+    		"coupontext":"赠券",
+    		"coupon":false
+    	},{
+    		"imgurl":"//img1.qunarzz.com/p/tts2/1606/b9/d6b338d2b7efd0f7.jpg_640x266_b71b0c7d.jpg",
+    		"lazyurl":"https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+    		"link":"",
+    		"cityname":"[上海]",
+    		"title":"[上海]【挑战360度玻璃观景台】平谷石林峡一日游",
+    		"newPrice":125,
+    		"originPrice":300,
+    		"couponPrice":"",
+    		"hotsale":"热卖中",
+    		"coupontext":"赠券",
+    		"coupon":false
+    	},{
+    		"imgurl":"//img1.qunarzz.com/p/tts2/1606/b9/d6b338d2b7efd0f7.jpg_640x266_b71b0c7d.jpg",
+    		"lazyurl":"https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+    		"link":"",
+    		"cityname":"[上海]",
+    		"title":"[上海]【挑战360度玻璃观景台】平谷石林峡一日游",
+    		"newPrice":125,
+    		"originPrice":300,
+    		"couponPrice":"",
+    		"hotsale":"热卖中",
+    		"coupontext":"赠券",
+    		"coupon":false
+    	},{
+    		"imgurl":"//img1.qunarzz.com/p/tts2/1606/b9/d6b338d2b7efd0f7.jpg_640x266_b71b0c7d.jpg",
+    		"lazyurl":"https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+    		"link":"",
+    		"cityname":"[上海]",
+    		"title":"[上海]【挑战360度玻璃观景台】平谷石林峡一日游",
+    		"newPrice":125,
+    		"originPrice":300,
+    		"couponPrice":"",
+    		"hotsale":"热卖中",
+    		"coupontext":"赠券",
+    		"coupon":false
+    	},{
+    		"imgurl":"//img1.qunarzz.com/p/tts2/1606/b9/d6b338d2b7efd0f7.jpg_640x266_b71b0c7d.jpg",
+    		"lazyurl":"https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+    		"link":"",
+    		"cityname":"[上海]",
+    		"title":"[上海]【挑战360度玻璃观景台】平谷石林峡一日游",
+    		"newPrice":125,
+    		"originPrice":300,
+    		"couponPrice":"",
+    		"hotsale":"热卖中",
+    		"coupontext":"赠券",
+    		"coupon":false
+    	},{
+    		"imgurl":"//img1.qunarzz.com/p/tts2/1606/b9/d6b338d2b7efd0f7.jpg_640x266_b71b0c7d.jpg",
+    		"lazyurl":"https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+    		"link":"",
+    		"cityname":"[上海]",
+    		"title":"[上海]【挑战360度玻璃观景台】平谷石林峡一日游",
+    		"newPrice":125,
+    		"originPrice":300,
+    		"couponPrice":"",
+    		"hotsale":"热卖中",
+    		"coupontext":"赠券",
+    		"coupon":false
+    	}],
+    	"ticketproductInfochongqing":[{
+			"imgurl":"//img1.qunarzz.com/p/tts4/1703/29/3d3d29034018db02.jpg_640x266_bcd86dd9.jpg",
+    		"lazyurl":"https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+    		"link":"",
+    		"cityname":"[重庆]",
+    		"title":"[重庆]亲子畅玩卡",
+    		"newPrice":29.9,
+    		"originPrice":198,
+    		"couponPrice":"",
+    		"hotsale":"热卖中",
+    		"coupontext":"赠券",
+    		"coupon":false
+    	},{
+    		"imgurl":"//img1.qunarzz.com/p/tts4/1703/29/3d3d29034018db02.jpg_640x266_bcd86dd9.jpg",
+    		"lazyurl":"https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+    		"link":"",
+    		"cityname":"[重庆]",
+    		"title":"[重庆]【北京五大景点】广场+故宫+八达岭+鸟巢+水立方，配无线讲解",
+    		"newPrice":99,
+    		"originPrice":199,
+    		"couponPrice":2,
+    		"hotsale":"热卖中",
+    		"coupontext":"赠券",
+    		"coupon":true
+    	},{
+    		"imgurl":"//img1.qunarzz.com/p/tts4/1703/29/3d3d29034018db02.jpg_640x266_bcd86dd9.jpg",
+    		"lazyurl":"https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+    		"link":"",
+    		"cityname":"[重庆]",
+    		"title":"[重庆]【北京五大景点】广场+故宫+八达岭+鸟巢+水立方，配无线讲解",
+    		"newPrice":99,
+    		"originPrice":199,
+    		"couponPrice":2,
+    		"hotsale":"热卖中",
+    		"coupontext":"赠券",
+    		"coupon":true
+    	},{
+    		"imgurl":"//img1.qunarzz.com/p/tts4/1703/29/3d3d29034018db02.jpg_640x266_bcd86dd9.jpg",
+    		"lazyurl":"https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+    		"link":"",
+    		"cityname":"[重庆]",
+    		"title":"[重庆]【北京五大景点】广场+故宫+八达岭+鸟巢+水立方，配无线讲解",
+    		"newPrice":99,
+    		"originPrice":199,
+    		"couponPrice":2,
+    		"hotsale":"热卖中",
+    		"coupontext":"赠券",
+    		"coupon":true
+    	},{
+    		"imgurl":"//img1.qunarzz.com/p/tts4/1703/29/3d3d29034018db02.jpg_640x266_bcd86dd9.jpg",
+    		"lazyurl":"https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+    		"link":"",
+    		"cityname":"[重庆]",
+    		"title":"[重庆]【北京五大景点】广场+故宫+八达岭+鸟巢+水立方，配无线讲解",
+    		"newPrice":99,
+    		"originPrice":199,
+    		"couponPrice":2,
+    		"hotsale":"热卖中",
+    		"coupontext":"赠券",
+    		"coupon":true
+    	},{
+    		"imgurl":"//img1.qunarzz.com/p/tts4/1703/29/3d3d29034018db02.jpg_640x266_bcd86dd9.jpg",
+    		"lazyurl":"https://gw.alicdn.com/tps/i1/TB147JCLFXXXXc1XVXXxGsw1VXX-112-168.png",
+    		"link":"",
+    		"cityname":"[重庆]",
+    		"title":"[重庆]【北京五大景点】广场+故宫+八达岭+鸟巢+水立方，配无线讲解",
+    		"newPrice":99,
+    		"originPrice":199,
+    		"couponPrice":2,
+    		"hotsale":"热卖中",
+    		"coupontext":"赠券",
+    		"coupon":true
+    	}]
+	}
+}

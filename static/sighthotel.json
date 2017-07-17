@@ -1,0 +1,63 @@
+{
+	"ret": true,
+	"data":{
+		"productInfo":[{
+     		"imgUrl":"//img1.qunarzz.com/sight/p0/1501/eb/ebc33a1d2fe9a682.water.jpg_640x280_d889bd09.jpg",
+     		"link":"",
+     		"name":"北京热带雨林风情园温泉酒店+私汤泡池"
+    },{
+     		"imgUrl":"//img1.qunarzz.com/sight/p0/1501/eb/ebc33a1d2fe9a682.water.jpg_640x280_d889bd09.jpg",
+     		"link":"",
+     		"name":"北京热带雨林风情园温泉酒店+私汤泡池"
+    }],
+    "swiperInfo": [{
+         "imgUrl": "http://img1.qunarzz.com/piao/fusion/1704/fe/8e9fb9b5f4ec402.jpg_640x200_72215135.jpg",
+         "link":""
+    },{
+         "imgUrl": "http://img1.qunarzz.com/piao/fusion/1707/1b/f564aba7aa82a202.jpg_640x200_7da0d23f.jpg",
+         "link":""
+    }],
+    "iconInfo": [{
+         "imgUrl": "http://img1.qunarzz.com/piao/fusion/1604/2f/5972c143d2e7fef7.png",
+         "title": "全部",
+         "link":""
+    },{
+         "imgUrl": "http://img1.qunarzz.com/piao/fusion/1604/a5/17ada1104cb564f7.png",
+         "title": "古北水镇",
+         "link":""
+    },{
+         "imgUrl": "http://img1.qunarzz.com/piao/fusion/1604/38/99300bae452743f7.png",
+         "title": "春游去",
+         "link":""
+    },{
+         "imgUrl": "http://img1.qunarzz.com/piao/fusion/1603/2b/45313f48cc3502f7.png",
+         "title": "温泉",
+         "link":""
+    },{
+         "imgUrl": "http://img1.qunarzz.com/piao/fusion/1511/bd/49ec5e1d94c677f7.png",
+         "title": "城市观光",
+         "link":""
+    }],
+    "recommendInfo": [{
+         "icon": "",
+         "title": "机票推荐",
+         "link":""
+    }, {
+         "icon": "",
+         "title": "9元门票",
+         "link":""
+    }],
+    "travelInfo":[{
+         "iconUrl": "//imgs.qunarzz.com/piao/fusion/1603/da/defe97e84caf1df7.png",
+         "whereTravel": "周边游",
+         "city1":"天津",
+         "city2":"张家口"
+    }, {
+         "iconUrl": "//imgs.qunarzz.com/piao/fusion/1603/72/0a5aa9885da4f3f7.png",
+         "whereTravel": "长线游",
+         "city1":"三亚",
+         "city2":"丽江"
+    }]
+	}
+}
+

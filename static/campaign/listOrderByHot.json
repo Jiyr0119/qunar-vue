@@ -1,0 +1,45 @@
+{
+	"ret":true,
+	"data":[
+		{
+			"currentTime":"2017-07-11 12:11:33",
+			"isLogin":false,
+			"bookingNewSwitch":"1",
+			"campaignProductDtoList":[
+				{
+					"productId":617165215,"status":"ON_SALE","startTime":"2017-07-04 21:03:25","endTime":null,"lotteryDelayMinutes":2,"issue":3250240857,"productName":"上海东方明珠旋转餐厅自助晚餐成人票一张","total":420,"remain":106,"image":"//img1.qunarzz.com/piao/fusion/1609/74/359f8b06e383ea02.jpg_292x180_6d88e3a5.jpg","onSale":true,"productInclude":"1.东方明珠旋转餐厅自助晚餐1份；\r\n2.东方明珠登塔参观1张。","useTime":"","priceId":1477098056,"seriesIndex":10,"city":"上海","campaignId":2058737132
+				},{
+					"productId":1772803680,"status":"ON_SALE","startTime":"2017-07-08 22:00:11","endTime":null,"lotteryDelayMinutes":2,"issue":552935101,"productName":"【休闲轻食】小苏州千禧福团 320g*2盒（包邮）","total":85,"remain":38,"image":"//img1.qunarzz.com/piao/fusion/1703/e8/7b7f5d4b277c9402.jpg_292x180_21c83942.jpg","onSale":true,"productInclude":"【小苏州】 千禧福团 320g*2盒 （包邮）千禧福团，不粘牙，香糯适口解馋饱腹，用心挑选优质纯正原料，松软的皮，淡淡的香，清甜可口，美味无比。\r\n\r\n","useTime":"","priceId":615498610,"seriesIndex":20,"city":"","campaignId":1069845752
+				},{
+					"productId":3946935234,"status":"ON_SALE","startTime":"2017-07-08 21:46:43","endTime":null,"lotteryDelayMinutes":2,"issue":2614602546,"productName":"【减肥季】玫瑰情语 金边玫瑰花茶 60g*2瓶（包邮）","total":80,"remain":24,"image":"//img1.qunarzz.com/piao/fusion/1701/99/466b0355b9e17602.jpg_292x180_319025a6.jpg","onSale":true,"productInclude":"【减肥季】玫瑰情语 金边玫瑰花茶 60g*2瓶（包邮）金边玫瑰是玫瑰中的精品，云南的日晒让花香进一步转化，花香浓郁，且玫瑰花茶有调养气血、养颜护肤的功效。","useTime":"","priceId":1257420971,"seriesIndex":38,"city":"","campaignId":3815466987
+				},{
+					"productId":3835373425,"status":"ON_SALE","startTime":"2017-07-07 08:31:20","endTime":null,"lotteryDelayMinutes":2,"issue":3411639713,"productName":"【减肥季】六安瓜片 茶叶礼盒150g一盒 （包邮）","total":140,"remain":65,"image":"//img1.qunarzz.com/piao/fusion/1702/91/31a1ba37e0a20202.jpg_292x180_27c9d64e.jpg","onSale":true,"productInclude":"【减肥季】六安瓜片 茶叶礼盒150g一盒 （包邮）“六安瓜片”茶既可清心明目、提神消乏，还有利于减肥和清理肠道脂肪，清热除燥、排毒养颜。","useTime":"","priceId":2576058337,"seriesIndex":18,"city":"","campaignId":3141008793
+				},{
+					"productId":1553526006,"status":"ON_SALE","startTime":"2017-07-05 09:32:38","endTime":null,"lotteryDelayMinutes":2,"issue":4223374872,"productName":"【度假美餐】三亚亚龙湾度假世界“泰诱惑”主题2人套餐一份","total":465,"remain":353,"image":"//img1.qunarzz.com/piao/fusion/1609/8c/3f3c63d41e9c6e02.jpg_292x180_bbf1e6ce.jpg","onSale":true,"productInclude":"【费用包含】含2人泰式主题风味套餐1份\r\n【费用不含】已含15%服务费，不含往返交通费，不含餐内其它额外消费。\r\n【用餐须知】营业时间11:00-21:00，请您提前购买预约；\r\n【预订须知】：本产品2月12日在餐厅开始供应，价格若有变化，如需预订请咨询代理商010-81040391","useTime":"","priceId":1865877917,"seriesIndex":15,"city":"三亚","campaignId":2323228947
+				},{
+					"productId":1559244360,"status":"ON_SALE","startTime":"2017-07-10 14:09:36","endTime":null,"lotteryDelayMinutes":2,"issue":3327349362,"productName":"【去哪儿品牌】【限量】中国红小骆驼（1只装）包邮","total":45,"remain":29,"image":"//img1.qunarzz.com/piao/fusion/1701/74/199c81c29e5d9202.jpg_292x180_ecb600e6.jpg","onSale":true,"productInclude":"【去哪儿品牌】【限量】中国红小骆驼仅定制少量，预购从速，4号，包邮哦~","useTime":"","priceId":2650190256,"seriesIndex":66,"city":"","campaignId":2363098314
+				},{
+					"productId":1201753986,"status":"ON_SALE","startTime":"2016-09-30 14:29:04","endTime":null,"lotteryDelayMinutes":2,"issue":3821194515,"productName":"甘肃热门（月牙泉、嘉峪关、地质公园3选1）成人票一张","total":190,"remain":9,"image":"//img1.qunarzz.com/piao/fusion/1609/bf/b44299873903e802.jpg_292x180_43af4fba.jpg","onSale":true,"productInclude":"中奖后，您可以选择兑换：A：鸣沙山月牙泉+敦煌古城成人联票一张；B：嘉峪关文物景区成人票一张；C：雅丹地质公园；注意，A、B、C中只能选择一张呦~\r\n","useTime":"","priceId":4250615842,"seriesIndex":1,"city":"甘肃","campaignId":3359532296
+				},{
+					"productId":538008445,"status":"ON_SALE","startTime":"2017-07-09 13:06:04","endTime":null,"lotteryDelayMinutes":2,"issue":3724761151,"productName":"200元现金券","total":220,"remain":103,"image":"//img1.qunarzz.com/piao/fusion/1609/51/b1e268dc8cd34e02.png_292x180_a2022f70.png","onSale":true,"productInclude":"200元消费金，可在去哪儿机票、酒店、火车票、门票以及度假频道购买预付类产品时使用。","useTime":"","priceId":3730980997,"seriesIndex":650,"city":"","campaignId":250211386
+				},{
+					"productId":2458819239,"status":"ON_SALE","startTime":"2017-07-07 23:15:15","endTime":null,"lotteryDelayMinutes":2,"issue":3303631694,"productName":"200元酒店代金券","total":220,"remain":57,"image":"//img1.qunarzz.com/piao/fusion/1609/6c/6349aa0152140c02.png_292x180_2277730f.png","onSale":true,"productInclude":"200元酒店代金券1张（可在酒店预付类产品中抵用）","useTime":"平日周末通用","priceId":3364111956,"seriesIndex":437,"city":"","campaignId":144074949
+				},{
+					"productId":1963458903,"status":"ON_SALE","startTime":"2017-07-08 22:54:15","endTime":null,"lotteryDelayMinutes":2,"issue":2071333573,"productName":"100元酒店代金券","total":110,"remain":88,"image":"//img1.qunarzz.com/piao/fusion/1609/98/9160f75b9fb1ea02.png_292x180_49412faf.png","onSale":true,"productInclude":"100元酒店代金券1张（可在酒店预付类产品中抵用）","useTime":"平日周末通用","priceId":2374119323,"seriesIndex":358,"city":"","campaignId":157189180
+				},{
+					"productId":2383538886,"status":"ON_SALE","startTime":"2017-07-11 09:47:20","endTime":null,"lotteryDelayMinutes":2,"issue":3906570646,"productName":"200元火车代金券","total":220,"remain":218,"image":"//img1.qunarzz.com/piao/fusion/1609/22/06f6b6fbc4d99002.png_292x180_840be954.png","onSale":true,"productInclude":"200元火车代金券1张（可在火车预付类产品中抵用）\r\n","useTime":"平日周末通用","priceId":245099659,"seriesIndex":290,"city":"","campaignId":2294894529
+				},{
+					"productId":1211949569,"status":"ON_SALE","startTime":"2017-07-08 22:18:58","endTime":null,"lotteryDelayMinutes":2,"issue":2899596377,"productName":"【坚果】好棒天下坚果礼盒 2400g （包邮）","total":155,"remain":104,"image":"//img1.qunarzz.com/piao/fusion/1610/93/6918f59f23377602.jpg_292x180_9c5529e4.jpg","onSale":true,"productInclude":"包含：河南特色好棒天下干果礼盒400g，包邮哦！","useTime":"","priceId":2948911845,"seriesIndex":27,"city":"","campaignId":1116475973
+				},{
+					"productId":2787526380,"status":"ON_SALE","startTime":"2017-07-09 09:22:10","endTime":null,"lotteryDelayMinutes":2,"issue":2002798058,"productName":"200元机票代金券","total":220,"remain":163,"image":"//img1.qunarzz.com/piao/fusion/1609/72/57c80e7272c6d102.png_292x180_fcf04c3d.png","onSale":true,"productInclude":"200元机票代金券1张（可在机票预付类产品中抵用）\r\n","useTime":"平日周末通用","priceId":2998907731,"seriesIndex":354,"city":"","campaignId":4065317710
+				},{
+					"productId":3939201941,"status":"ON_SALE","startTime":"2017-07-09 00:23:18","endTime":null,"lotteryDelayMinutes":2,"issue":2895694499,"productName":"欢乐谷（北京、上海、深圳、成都4选1）成人票一张","total":300,"remain":147,"image":"//img1.qunarzz.com/piao/fusion/1609/e7/16adff316acfef02.jpg_292x180_79d6c909.jpg","onSale":true,"productInclude":"中奖后，您可以选择兑换：A：北京欢乐谷日场成人票一张；B：上海欢乐谷日场成人票一张；C：深圳欢乐谷日场成人票一张；D：成都欢乐谷日场成人票一张；注意，A、B、C、D中只能选择一张呦~","useTime":"","priceId":3310234383,"seriesIndex":35,"city":"欢乐谷","campaignId":194458549
+				},{
+					"productId":273514673,"status":"ON_SALE","startTime":"2017-07-10 16:07:54","endTime":null,"lotteryDelayMinutes":2,"issue":677240489,"productName":"广州长隆（欢乐世界/水上乐园/动物世界3选1）成人票一张","total":270,"remain":245,"image":"//img1.qunarzz.com/piao/fusion/1609/e8/8e859b4b03afd902.jpg_292x180_ff330cf5.jpg","onSale":true,"productInclude":"A、广州长隆野生动物世界成人票一张；B、广州长隆水上乐园成人票一张；C、广州长隆欢乐世界成人票一张。A、B和C之中只能选一个哟~","useTime":"","priceId":3765948439,"seriesIndex":34,"city":"广州","campaignId":633125318
+				}
+			]
+		}
+	],
+	"errcode":null,
+	"errmsg":null	
+}

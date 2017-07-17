@@ -1,0 +1,221 @@
+{
+    "ret": true,
+    "data": {
+        "weekendChosenInfo": {
+                "title":"周末精选",
+                "weekendChosenItems":[
+                    {
+                        "id":1,
+                        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1706/b7/2fcf77183b457302.jpg_640x200_0f7a1098.jpg",
+                        "link": "promote"
+                    },
+                    {
+                        "id":2,
+                        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1704/fe/8e9fb9b5f4ec402.jpg_640x200_72215135.jpg",
+                        "link": ""
+                    }
+                ]
+            },
+        "北京": {
+            "city": "北京",
+            "classifyInfo": [
+                {   
+                    "id":1,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1511/ac/cea9a29c2524c4f7.png",
+                    "link": "",
+                    "title": "周边度假"
+                },
+                {   
+                    "id":2,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1511/bd/49ec5e1d94c677f7.png",
+                    "link": "",
+                    "title": "城市好玩"
+                },
+                {
+                    "id":3,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1603/69/aafef9983dcd6ef7.png",
+                    "link": "",
+                    "title": "踏青赏花"
+                },
+                {
+                    "id":4,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1511/df/a6dc6f8b9277a0f7.png",
+                    "link": "",
+                    "title": "一日游"
+                }
+            ],
+            "nearScapeInfo": [
+                {   
+                    "id":1,
+                    "link": "",
+                    "title": "来天目湖，才好玩"
+                },
+                {
+                    "id":2,
+                    "link": "",
+                    "title": "去灵堂，拜大佛"
+                },
+                {
+                    "id":3,
+                    "link": "",
+                    "title": "中华恐龙园"
+                },
+                {
+                    "id":4,
+                    "link": "",
+                    "title": "天平山"
+                },
+                {
+                    "id":5,
+                    "link": "",
+                    "title": "苏州乐园"
+                },
+                {
+                    "id":6,
+                    "link": "",
+                    "title": "常州"
+                }
+            ],
+            
+            "pinterest":[
+                {"title":"大雪纷飞 王府探秘【恭王府成人票】",
+                    "position":"西城区·什刹海",
+                    "price":"50",
+            
+                     "src":"http://img1.qunarzz.com/sight/p0/201405/12/51b63883c25f5d87af3c08bb016e2bd7.jpg_640x280_ee3bd3c6.jpg",
+                     "link":""
+                },
+                {"title":"亲近自然 寻觅童心【北京野生动物园成人票】",
+                    "position":"大兴区·北京野生动物园",
+                    "price":"50",
+                     "yprice":"99",
+                     "src":"http://img1.qunarzz.com/sight/p0/1512/a9/a9b0f24fa1bf715290.water.jpg_640x280_bd75d344.jpg",
+                     "link":""
+                },
+                {"title":"一场30万年的奇景之约【仙栖洞门票】",
+                    "position":"房山区·仙栖洞",
+                      "price":"50",
+                      "yprice":"70",
+                     "src":"http://img1.qunarzz.com/sight/p0/1508/c0/0ddded36771ed10c9e03eb64794610cb.water.jpg_640x280_9dba2a48.jpg",
+                     "link":""
+                },
+                {"title":"大雪纷飞 王府探秘【恭王府成人票】",
+                    "position":"西城区·什刹海",
+                       "price":"50",
+                       "yprice":"100",                     
+                     "src":"http://img1.qunarzz.com/sight/p0/1511/8c/8ce157cca1cbad1f90.water.jpg_640x280_5893e19b.jpg",
+                     "link":""
+                },
+                {"title":"大雪纷飞 王府探秘【恭王府成人票】",
+                    "position":"西城区·什刹海",
+                       "price":"50",
+                     "src":"http://img1.qunarzz.com/sight/p0/201405/12/51b63883c25f5d87af3c08bb016e2bd7.jpg_640x280_ee3bd3c6.jpg",
+                     "link":""
+                },
+                {"title":"大雪纷飞 王府探秘【恭王府成人票】",
+                    "position":"西城区·什刹海",
+                       "price":"50",
+                     "src":"http://img1.qunarzz.com/sight/p0/201405/12/51b63883c25f5d87af3c08bb016e2bd7.jpg_640x280_ee3bd3c6.jpg",
+                     "link":""
+                },
+                {"title":"大雪纷飞 王府探秘【恭王府成人票】",
+                    "position":"西城区·什刹海",
+                       "price":"50",
+                     "src":"http://img1.qunarzz.com/sight/p0/201405/12/51b63883c25f5d87af3c08bb016e2bd7.jpg_640x280_ee3bd3c6.jpg",
+                     "link":""
+                },
+                {"title":"大雪纷飞 王府探秘【恭王府成人票】",
+                    "position":"西城区·什刹海",
+                       "price":"50",
+                     "src":"http://img1.qunarzz.com/sight/p0/201405/12/51b63883c25f5d87af3c08bb016e2bd7.jpg_640x280_ee3bd3c6.jpg",
+                     "link":""
+                }
+            ]
+        },
+        "上海": {
+            "city": "上海",
+            "classifyInfo": [
+                {   
+                    "id":1,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1511/ac/cea9a29c2524c4f7.png",
+                    "link": "",
+                    "title": "周边度假"
+                },
+                {   
+                    "id":2,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1511/bd/49ec5e1d94c677f7.png",
+                    "link": "",
+                    "title": "城市好玩"
+                },
+                {
+                    "id":3,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1603/69/aafef9983dcd6ef7.png",
+                    "link": "",
+                    "title": "踏青赏花"
+                },
+                {
+                    "id":4,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1511/df/a6dc6f8b9277a0f7.png",
+                    "link": "",
+                    "title": "一日游"
+                }
+            ],
+            "nearScapeInfo": [
+            ],
+            "pinterest":[
+                {"title":"大雪纷飞 王府探秘【恭王府成人票】",
+                    "position":"西城区·什刹海",
+                    "price":"50",
+            
+                     "src":"http://img1.qunarzz.com/sight/p0/201405/12/51b63883c25f5d87af3c08bb016e2bd7.jpg_640x280_ee3bd3c6.jpg",
+                     "link":""
+                },
+                {"title":"亲近自然 寻觅童心【北京野生动物园成人票】",
+                    "position":"大兴区·北京野生动物园",
+                    "price":"50",
+                     "yprice":"99",
+                     "src":"http://img1.qunarzz.com/sight/p0/1512/a9/a9b0f24fa1bf715290.water.jpg_640x280_bd75d344.jpg",
+                     "link":""
+                },
+                {"title":"一场30万年的奇景之约【仙栖洞门票】",
+                    "position":"房山区·仙栖洞",
+                      "price":"50",
+                      "yprice":"70",
+                     "src":"http://img1.qunarzz.com/sight/p0/1508/c0/0ddded36771ed10c9e03eb64794610cb.water.jpg_640x280_9dba2a48.jpg",
+                     "link":""
+                },
+                {"title":"大雪纷飞 王府探秘【恭王府成人票】",
+                    "position":"西城区·什刹海",
+                       "price":"50",
+                       "yprice":"100",                     
+                     "src":"http://img1.qunarzz.com/sight/p0/1511/8c/8ce157cca1cbad1f90.water.jpg_640x280_5893e19b.jpg",
+                     "link":""
+                },
+                {"title":"大雪纷飞 王府探秘【恭王府成人票】",
+                    "position":"西城区·什刹海",
+                       "price":"50",
+                     "src":"http://img1.qunarzz.com/sight/p0/201405/12/51b63883c25f5d87af3c08bb016e2bd7.jpg_640x280_ee3bd3c6.jpg",
+                     "link":""
+                },
+                {"title":"大雪纷飞 王府探秘【恭王府成人票】",
+                    "position":"西城区·什刹海",
+                       "price":"50",
+                     "src":"http://img1.qunarzz.com/sight/p0/201405/12/51b63883c25f5d87af3c08bb016e2bd7.jpg_640x280_ee3bd3c6.jpg",
+                     "link":""
+                },
+                {"title":"大雪纷飞 王府探秘【恭王府成人票】",
+                    "position":"西城区·什刹海",
+                       "price":"50",
+                     "src":"http://img1.qunarzz.com/sight/p0/201405/12/51b63883c25f5d87af3c08bb016e2bd7.jpg_640x280_ee3bd3c6.jpg",
+                     "link":""
+                },
+                {"title":"大雪纷飞 王府探秘【恭王府成人票】",
+                    "position":"西城区·什刹海",
+                       "price":"50",
+                     "src":"http://img1.qunarzz.com/sight/p0/201405/12/51b63883c25f5d87af3c08bb016e2bd7.jpg_640x280_ee3bd3c6.jpg",
+                     "link":""
+                }
+            ]
+        }
+    }
+}

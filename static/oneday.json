@@ -1,0 +1,1601 @@
+{
+	"ret": true,
+ 	"data":{
+ 		"北京": {
+ 			"city" : "北京",
+ 			"href" : "/city",
+	 		"spotInfo": [
+	     		{
+	     			"title" : "八达岭长城缆车",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/201306/13/bdf22f69fab0ee4ec8d65eac.jpg_195x140_fed88c5f.jpg",
+	     			"line" : "3",
+	     			"link" : "/",
+	     			"id" : "1"
+	     		},
+	     		{
+	     			"title" : "水立方",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1501/40/40b2b6c951b28fdd.water.jpg_195x140_6f1cbf29.jpg",
+	     			"line" : "14",
+	     			"link" : "/",
+	     			"id" : "2"
+	     		},
+	    		{
+	    			"title" : "故宫",
+	    			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_195x140_267be79a.jpg",
+	    			"line" : "33",
+	     			"link" : "/",
+	     			"id" : "3"
+	     		},
+	     		{
+	     			"title" : "八达岭长城",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1604/1b/1b6778deafaf208f90.img.jpg_195x140_0566a2f1.jpg",
+	     			"line" : "50",
+	     			"link" : "/",
+	     			"id" : "4"
+	     		},
+	    		{
+	     			"title" : "颐和园",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1505/d2/d274c92de14c93da.water.jpg_195x140_1719cd64.jpg",
+	     			"line" : "27",
+	    			"link" : "/",
+	    			"id" : "5"
+	     		},
+	     		{
+	     			"title" : "北京杜莎夫人蜡像馆",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1608/4f/4fc3f5a1b838f279a3.water.jpg_195x140_7f4a43e8.jpg",
+	    			"line" : "6",
+	     			"link" : "/",
+	     			"id" : "6"
+	     		}
+	     	],
+		    "recommendInfo":[
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	    			"number" : "2120",
+	     			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "1"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts3/1704/ce/7e52752773eb4802.jpg_160x160_e81099b1.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【晚出发】北京古北水镇1-2日游，可选宿特色客栈赠电瓶车",
+	     			"number" : "273",
+	     			"score" : "4.7",
+	     			"price" : "238",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "2"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts5/1705/36/c0c777c8fea69502.jpg_160x160_589dfa61.jpg",
+	    			"alt" :"可订明日",
+	    			"title" : "【10-11点晚出发 】八达岭长城+鸟巢水立方+什刹海一日游",
+	    			"number" : "1923",
+	    			"score" : "4.9",
+	     			"price" : "80",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "3"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts1/1603/cb/c30a2a3b06b0def7.jpg_160x160_f7b325bb.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【北京5大景点】广场+故宫+八达岭+鸟巢+水立方，配无线讲解",
+	    			"number" : "920",
+	    			"score" : "4.7",
+	     			"price" : "158",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "4"
+	    		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	    			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	     			"number" : "2120",
+	    			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "5"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	     			"number" : "2120",
+	     			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "6"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	     			"number" : "2120",
+	     			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "7"
+	     		},
+	    		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	     			"number" : "2120",
+	     			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "8"
+	     		}
+	     	],
+	     	"viewspotInfo": [{
+	            "title": "故宫门票",
+	            "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_200x200_1bc99086.jpg",
+	            "comment": "53823评论",
+	            "address": "北京东城区",
+	            "price": "20",
+	            "link" : "/",
+	            "id" : "1"
+	        },{
+	            "title": "北京欢乐谷门票",
+	             "booktime": "可定明日",
+	            "cinema": "娱乐先锋",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1508/a5/4003f9dd7bebf61eccbf64046e26d487.water.jpg_200x200_7690e4cd.jpg",
+	            "comment": "35830评论",
+	            "address": "北京朝阳区",
+	            "price": "19.9",
+	            "link" : "/",
+	            "id" : "2"
+	        },{
+	           "title": "十渡聚龙湾玻璃栈道门票",
+	             "booktime": "可定今日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1704/d6/d62a708bc69472f5a3.img.jpg_200x200_5193a3b6.jpg",
+	            "comment": "721评论",
+	            "address": "北京十渡风景区",
+	            "price": "30",
+	            "link" : "/",
+	            "id" : "3"
+	        },{
+	            "title": "颐和园门票",
+	            "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1505/d2/d274c92de14c93da.water.jpg_200x200_2cce447f.jpg",
+	            "comment": "9940评论",
+	            "address": "北京海淀区",
+	            "price": "65",
+	            "link" : "/",
+	            "id" : "4"
+	       },{
+	            "title": "八达岭长城门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1604/1b/1b6778deafaf208f90.img.jpg_200x200_a99be6a3.jpg",
+	            "comment": "9519评论",
+	            "address": "北京·延庆县",
+	            "price": "43",
+	            "link" : "/",
+	            "id" : "5"
+	        },{
+	            "title": "水立方门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1501/40/40b2b6c951b28fdd.water.jpg_200x200_fdc48968.jpg",
+	            "comment": "873评论",
+	            "address": "北京·奥林匹克公园",
+	            "price": "14.4",
+	            "link" : "/",
+	            "id" : "6"
+	        },{
+	            "title": "恭王府门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_200x200_1bc99086.jpg",
+	            "comment": "3567评论",
+	            "address": "北京·西城区",
+	            "price": "20",
+	            "link" : "/",
+	            "id" : "7"
+	        },{
+	            "title": "慕田峪长城门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/201405/12/51b63883c25f5d87af3c08bb016e2bd7.jpg_200x200_8eb33f07.jpg",
+	            "comment": "5227评论",
+	            "address": "北京·怀柔区",
+	            "price": "38.4",
+	            "link" : "/",
+	            "id" : "8"
+	        },{
+	            "title": "北京杜莎夫人蜡像馆门票",
+	            "booktime": "可定明日",
+	              "cinema": "自拍神地",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/21/215f898bb73e63f790.water.jpg_200x200_b054b156.jpg",
+	            "comment": "3766评论",
+	            "address": "北京·前门大街",
+	            "price": "78",
+	            "link" : "/",
+	            "id" : "9"
+	        },{
+	            "title": "圆明园门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1608/4f/4fc3f5a1b838f279a3.water.jpg_200x200_e6528ef6.jpg",
+	            "comment": "7812评论",
+	            "address": "北京·海淀区",
+	            "price": "7.01",
+	            "link" : "/",
+	            "id" : "10"
+	        }],
+		    "classifyInfo": [{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1606/b3/0249b48a69aaf49a.png",
+	             "title": "周边游",
+	 	         "link": "/",
+	 	         "id" : "1"
+	         },{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1604/aa/b08918c566c859f7.png",
+	             "title": "海滨海岛",
+	             "link": "/",
+	             "id" : "2"
+	        },{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1606/46/613a55bf025859a.png",
+	             "title": "文化古迹",
+	             "link": "/",
+	             "id" : "3"
+	         },{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1706/2a/57d3853e9aa66202.png",
+	             "title": "草原",
+	             "link": "/",
+	             "id" : "4"
+	         },{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1706/82/3a5636877c18c602.png",
+	             "title": "清凉避暑",
+	             "link": "/",
+	             "id" : "5"
+	         }]
+ 		},
+ 		"重庆": {
+ 			"city" : "重庆",
+ 			"href" : "/city",
+	 		"spotInfo": [
+	     		{
+	     			"title" : "秦始皇陵博物院（兵马俑）",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1411/1a/5582f9f24bc50b475a8cbda4c5ac8d24.water.jpg_195x140_d64bc877.jpg",
+	     			"line" : "19",
+	     			"link" : "/",
+	     			"id" : "1"
+	     		},
+	     		{
+	     			"title" : "长恨歌",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1505/18/18ffcca94b1b7ca2.water.jpg_195x140_63734aef.jpg",
+	     			"line" : "14",
+	     			"link" : "/",
+	     			"id" : "2"
+	     		},
+	    		{
+	    			"title" : "陕西历史博物馆",
+	    			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1411/b8/f5fd5955bdecc923ce6d40ce453160eb.water.jpg_195x140_83445f94.jpg",
+	    			"line" : "33",
+	     			"link" : "/",
+	     			"id" : "3"
+	     		},
+	     		{
+	     			"title" : "西安半坡博物馆",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1505/ba/ba6ee76f5778a3a6.water.jpg_195x140_d18986a5.jpg",
+	     			"line" : "50",
+	     			"link" : "/",
+	     			"id" : "4"
+	     		},
+	    		{
+	     			"title" : "华清宫（华清池·骊山）",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1602/de/de8400021b664c5390.img.jpg_195x140_12b990d6.jpg",
+	     			"line" : "27",
+	    			"link" : "/",
+	    			"id" : "5"
+	     		},
+	     		{
+	     			"title" : "钟鼓楼广场",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1512/af/afe1ec0b03e4fcc390.water.jpg_195x140_df080699.jpg",
+	    			"line" : "6",
+	     			"link" : "/",
+	     			"id" : "6"
+	     		}
+	     	],
+		    "recommendInfo":[
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	    			"number" : "2120",
+	     			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "1"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts3/1704/ce/7e52752773eb4802.jpg_160x160_e81099b1.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【晚出发】北京古北水镇1-2日游，可选宿特色客栈赠电瓶车",
+	     			"number" : "273",
+	     			"score" : "4.7",
+	     			"price" : "238",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "2"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts5/1705/36/c0c777c8fea69502.jpg_160x160_589dfa61.jpg",
+	    			"alt" :"可订明日",
+	    			"title" : "【10-11点晚出发 】八达岭长城+鸟巢水立方+什刹海一日游",
+	    			"number" : "1923",
+	    			"score" : "4.9",
+	     			"price" : "80",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "3"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts1/1603/cb/c30a2a3b06b0def7.jpg_160x160_f7b325bb.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【北京5大景点】广场+故宫+八达岭+鸟巢+水立方，配无线讲解",
+	    			"number" : "920",
+	    			"score" : "4.7",
+	     			"price" : "158",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "4"
+	    		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	    			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	     			"number" : "2120",
+	    			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "5"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	     			"number" : "2120",
+	     			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "6"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	     			"number" : "2120",
+	     			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "7"
+	     		},
+	    		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	     			"number" : "2120",
+	     			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "8"
+	     		}
+	     	],
+	     	"viewspotInfo": [{
+	            "title": "故宫门票",
+	            "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_200x200_1bc99086.jpg",
+	            "comment": "53823评论",
+	            "address": "北京东城区",
+	            "price": "20",
+	            "link" : "/",
+	            "id" : "1"
+	        },{
+	            "title": "北京欢乐谷门票",
+	             "booktime": "可定明日",
+	            "cinema": "娱乐先锋",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1508/a5/4003f9dd7bebf61eccbf64046e26d487.water.jpg_200x200_7690e4cd.jpg",
+	            "comment": "35830评论",
+	            "address": "北京朝阳区",
+	            "price": "19.9",
+	            "link" : "/",
+	            "id" : "2"
+	        },{
+	           "title": "十渡聚龙湾玻璃栈道门票",
+	             "booktime": "可定今日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1704/d6/d62a708bc69472f5a3.img.jpg_200x200_5193a3b6.jpg",
+	            "comment": "721评论",
+	            "address": "北京十渡风景区",
+	            "price": "30",
+	            "link" : "/",
+	            "id" : "3"
+	        },{
+	            "title": "颐和园门票",
+	            "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1505/d2/d274c92de14c93da.water.jpg_200x200_2cce447f.jpg",
+	            "comment": "9940评论",
+	            "address": "北京海淀区",
+	            "price": "65",
+	            "link" : "/",
+	            "id" : "4"
+	       },{
+	            "title": "八达岭长城门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1604/1b/1b6778deafaf208f90.img.jpg_200x200_a99be6a3.jpg",
+	            "comment": "9519评论",
+	            "address": "北京·延庆县",
+	            "price": "43",
+	            "link" : "/",
+	            "id" : "5"
+	        },{
+	            "title": "水立方门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1501/40/40b2b6c951b28fdd.water.jpg_200x200_fdc48968.jpg",
+	            "comment": "873评论",
+	            "address": "北京·奥林匹克公园",
+	            "price": "14.4",
+	            "link" : "/",
+	            "id" : "6"
+	        },{
+	            "title": "恭王府门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_200x200_1bc99086.jpg",
+	            "comment": "3567评论",
+	            "address": "北京·西城区",
+	            "price": "20",
+	            "link" : "/",
+	            "id" : "7"
+	        },{
+	            "title": "慕田峪长城门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/201405/12/51b63883c25f5d87af3c08bb016e2bd7.jpg_200x200_8eb33f07.jpg",
+	            "comment": "5227评论",
+	            "address": "北京·怀柔区",
+	            "price": "38.4",
+	            "link" : "/",
+	            "id" : "8"
+	        },{
+	            "title": "北京杜莎夫人蜡像馆门票",
+	            "booktime": "可定明日",
+	              "cinema": "自拍神地",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/21/215f898bb73e63f790.water.jpg_200x200_b054b156.jpg",
+	            "comment": "3766评论",
+	            "address": "北京·前门大街",
+	            "price": "78",
+	            "link" : "/",
+	            "id" : "9"
+	        },{
+	            "title": "圆明园门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1608/4f/4fc3f5a1b838f279a3.water.jpg_200x200_e6528ef6.jpg",
+	            "comment": "7812评论",
+	            "address": "北京·海淀区",
+	            "price": "7.01",
+	            "link" : "/",
+	            "id" : "10"
+	        }],
+		    "classifyInfo": [{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1606/ca/3cf116008d8eff9a.png",
+	             "title": "华山",
+	 	         "link": "/",
+	 	         "id" : "1"
+	         },{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1704/91/b785bedbae2dab02.png",
+	             "title": "兵马俑",
+	             "link": "/",
+	             "id" : "2"
+	        },{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1703/5a/612ae0fee636d202.jpg",
+	             "title": "法门寺",
+	             "link": "/",
+	             "id" : "3"
+	         },{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1606/9d/c9182a4389d7969a.png",
+	             "title": "壶口瀑布",
+	             "link": "/",
+	             "id" : "4"
+	         },{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1706/82/3a5636877c18c602.png",
+	             "title": "清凉避暑",
+	             "link": "/",
+	             "id" : "5"
+	         }]
+ 		},
+		"上海": {
+ 			"city" : "上海",
+ 			"href" : "/city",
+	 		"spotInfo": [
+	     		{
+	     			"title" : "上海迪士尼乐园",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1607/7c/7cda8b6782dabd80b4.img.jpg_195x140_8a8dc664.jpg",
+	     			"line" : "11",
+	     			"link" : "/",
+	     			"id" : "1"
+	     		},
+	     		{
+	     			"title" : "东方明珠",
+	     			"imgsrc" : "http://img1.qunarzz.com/tuan/team2/1507/2c/83e0e0e7ae082a.jpg_195x140_7f6dc788.jpg",
+	     			"line" : "14",
+	     			"link" : "/",
+	     			"id" : "2"
+	     		},
+	    		{
+	    			"title" : "外滩",
+	    			"imgsrc" : "http://img1.qunarzz.com/sight/p78/201211/04/f8bd9ebc1b443a4e93835fbb.jpg_195x140_50a62351.jpg",
+	    			"line" : "33",
+	     			"link" : "/",
+	     			"id" : "3"
+	     		},
+	     		{
+	     			"title" : "上海城隍庙",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1603/af/af20f07ad958be390.water.jpg_195x140_b8de4e0e.jpg",
+	     			"line" : "50",
+	     			"link" : "/",
+	     			"id" : "4"
+	     		},
+	    		{
+	     			"title" : "黄浦江游船",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/201407/03/0fecc57b14cf94dde413aa08f1a4719a.jpg_195x140_ad1277f3.jpg",
+	     			"line" : "27",
+	    			"link" : "/",
+	    			"id" : "5"
+	     		},
+	     		{
+	     			"title" : "乌镇",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1603/5d/5dd523afbdbb037c90.water.jpg_195x140_48d70948.jpg",
+	    			"line" : "6",
+	     			"link" : "/",
+	     			"id" : "6"
+	     		}
+	     	],
+		    "recommendInfo":[
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	    			"number" : "2120",
+	     			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "1"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts3/1704/ce/7e52752773eb4802.jpg_160x160_e81099b1.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【晚出发】北京古北水镇1-2日游，可选宿特色客栈赠电瓶车",
+	     			"number" : "273",
+	     			"score" : "4.7",
+	     			"price" : "238",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "2"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts5/1705/36/c0c777c8fea69502.jpg_160x160_589dfa61.jpg",
+	    			"alt" :"可订明日",
+	    			"title" : "【10-11点晚出发 】八达岭长城+鸟巢水立方+什刹海一日游",
+	    			"number" : "1923",
+	    			"score" : "4.9",
+	     			"price" : "80",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "3"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts1/1603/cb/c30a2a3b06b0def7.jpg_160x160_f7b325bb.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【北京5大景点】广场+故宫+八达岭+鸟巢+水立方，配无线讲解",
+	    			"number" : "920",
+	    			"score" : "4.7",
+	     			"price" : "158",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "4"
+	    		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	    			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	     			"number" : "2120",
+	    			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "5"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	     			"number" : "2120",
+	     			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "6"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	     			"number" : "2120",
+	     			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "7"
+	     		},
+	    		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	     			"number" : "2120",
+	     			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "8"
+	     		}
+	     	],
+	     	"viewspotInfo": [{
+	            "title": "故宫门票",
+	            "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_200x200_1bc99086.jpg",
+	            "comment": "53823评论",
+	            "address": "北京东城区",
+	            "price": "20",
+	            "link" : "/",
+	            "id" : "1"
+	        },{
+	            "title": "北京欢乐谷门票",
+	             "booktime": "可定明日",
+	            "cinema": "娱乐先锋",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1508/a5/4003f9dd7bebf61eccbf64046e26d487.water.jpg_200x200_7690e4cd.jpg",
+	            "comment": "35830评论",
+	            "address": "北京朝阳区",
+	            "price": "19.9",
+	            "link" : "/",
+	            "id" : "2"
+	        },{
+	           "title": "十渡聚龙湾玻璃栈道门票",
+	             "booktime": "可定今日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1704/d6/d62a708bc69472f5a3.img.jpg_200x200_5193a3b6.jpg",
+	            "comment": "721评论",
+	            "address": "北京十渡风景区",
+	            "price": "30",
+	            "link" : "/",
+	            "id" : "3"
+	        },{
+	            "title": "颐和园门票",
+	            "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1505/d2/d274c92de14c93da.water.jpg_200x200_2cce447f.jpg",
+	            "comment": "9940评论",
+	            "address": "北京海淀区",
+	            "price": "65",
+	            "link" : "/",
+	            "id" : "4"
+	       },{
+	            "title": "八达岭长城门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1604/1b/1b6778deafaf208f90.img.jpg_200x200_a99be6a3.jpg",
+	            "comment": "9519评论",
+	            "address": "北京·延庆县",
+	            "price": "43",
+	            "link" : "/",
+	            "id" : "5"
+	        },{
+	            "title": "水立方门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1501/40/40b2b6c951b28fdd.water.jpg_200x200_fdc48968.jpg",
+	            "comment": "873评论",
+	            "address": "北京·奥林匹克公园",
+	            "price": "14.4",
+	            "link" : "/",
+	            "id" : "6"
+	        },{
+	            "title": "恭王府门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_200x200_1bc99086.jpg",
+	            "comment": "3567评论",
+	            "address": "北京·西城区",
+	            "price": "20",
+	            "link" : "/",
+	            "id" : "7"
+	        },{
+	            "title": "慕田峪长城门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/201405/12/51b63883c25f5d87af3c08bb016e2bd7.jpg_200x200_8eb33f07.jpg",
+	            "comment": "5227评论",
+	            "address": "北京·怀柔区",
+	            "price": "38.4",
+	            "link" : "/",
+	            "id" : "8"
+	        },{
+	            "title": "北京杜莎夫人蜡像馆门票",
+	            "booktime": "可定明日",
+	              "cinema": "自拍神地",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/21/215f898bb73e63f790.water.jpg_200x200_b054b156.jpg",
+	            "comment": "3766评论",
+	            "address": "北京·前门大街",
+	            "price": "78",
+	            "link" : "/",
+	            "id" : "9"
+	        },{
+	            "title": "圆明园门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1608/4f/4fc3f5a1b838f279a3.water.jpg_200x200_e6528ef6.jpg",
+	            "comment": "7812评论",
+	            "address": "北京·海淀区",
+	            "price": "7.01",
+	            "link" : "/",
+	            "id" : "10"
+	        }],
+		    "classifyInfo": [{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1606/ca/3cf116008d8eff9a.png",
+	             "title": "华山",
+	 	         "link": "/",
+	 	         "id" : "1"
+	         },{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1704/91/b785bedbae2dab02.png",
+	             "title": "兵马俑",
+	             "link": "/",
+	             "id" : "2"
+	        },{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1703/5a/612ae0fee636d202.jpg",
+	             "title": "法门寺",
+	             "link": "/",
+	             "id" : "3"
+	         },{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1606/9d/c9182a4389d7969a.png",
+	             "title": "壶口瀑布",
+	             "link": "/",
+	             "id" : "4"
+	         },{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1706/82/3a5636877c18c602.png",
+	             "title": "清凉避暑",
+	             "link": "/",
+	             "id" : "5"
+	         }]
+ 		},
+		"天津": {
+ 			"city" : "天津",
+ 			"href" : "/city",
+	 		"spotInfo": [
+	     		{
+	     			"title" : "八达岭长城缆车",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/201306/13/bdf22f69fab0ee4ec8d65eac.jpg_195x140_fed88c5f.jpghttp://img1.qunarzz.com/sight/p0/201306/13/bdf22f69fab0ee4ec8d65eac.jpg_195x140_fed88c5f.jpg",
+	     			"line" : "11",
+	     			"link" : "/",
+	     			"id" : "1"
+	     		},
+	     		{
+	     			"title" : "北京杜莎夫人蜡像馆",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1608/4f/4fc3f5a1b838f279a3.water.jpg_195x140_7f4a43e8.jpg",
+	     			"line" : "14",
+	     			"link" : "/",
+	     			"id" : "2"
+	     		},
+	    		{
+	    			"title" : "天津方特欢乐世界",
+	    			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1507/6f/3df88c1cae757ae7823b6732b7e8381b.water.jpg_195x140_90aa3dac.jpg",
+	    			"line" : "33",
+	     			"link" : "/",
+	     			"id" : "3"
+	     		},
+	     		{
+	     			"title" : "天津欢乐谷",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1703/76/76f0136dc779efdda3.img.jpg_195x140_74ecab9a.jpg",
+	     			"line" : "50",
+	     			"link" : "/",
+	     			"id" : "4"
+	     		},
+	    		{
+	     			"title" : "八仙山自然保护区",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/201212/25/974ecd786faca41293835fbb.jpg_195x140_480347f1.jpg",
+	     			"line" : "27",
+	    			"link" : "/",
+	    			"id" : "5"
+	     		},
+	     		{
+	     			"title" : "南市食品街",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/201312/05/b67e916d686beb57c8d65eac.jpg_195x140_953f5939.jpg",
+	    			"line" : "6",
+	     			"link" : "/",
+	     			"id" : "6"
+	     		}
+	     	],
+		    "recommendInfo":[
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	    			"number" : "2120",
+	     			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "1"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts3/1704/ce/7e52752773eb4802.jpg_160x160_e81099b1.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【晚出发】北京古北水镇1-2日游，可选宿特色客栈赠电瓶车",
+	     			"number" : "273",
+	     			"score" : "4.7",
+	     			"price" : "238",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "2"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts5/1705/36/c0c777c8fea69502.jpg_160x160_589dfa61.jpg",
+	    			"alt" :"可订明日",
+	    			"title" : "【10-11点晚出发 】八达岭长城+鸟巢水立方+什刹海一日游",
+	    			"number" : "1923",
+	    			"score" : "4.9",
+	     			"price" : "80",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "3"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts1/1603/cb/c30a2a3b06b0def7.jpg_160x160_f7b325bb.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【北京5大景点】广场+故宫+八达岭+鸟巢+水立方，配无线讲解",
+	    			"number" : "920",
+	    			"score" : "4.7",
+	     			"price" : "158",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "4"
+	    		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	    			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	     			"number" : "2120",
+	    			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "5"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	     			"number" : "2120",
+	     			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "6"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	     			"number" : "2120",
+	     			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "7"
+	     		},
+	    		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	     			"number" : "2120",
+	     			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "8"
+	     		}
+	     	],
+	     	"viewspotInfo": [{
+	            "title": "故宫门票",
+	            "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_200x200_1bc99086.jpg",
+	            "comment": "53823评论",
+	            "address": "北京东城区",
+	            "price": "20",
+	            "link" : "/",
+	            "id" : "1"
+	        },{
+	            "title": "北京欢乐谷门票",
+	             "booktime": "可定明日",
+	            "cinema": "娱乐先锋",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1508/a5/4003f9dd7bebf61eccbf64046e26d487.water.jpg_200x200_7690e4cd.jpg",
+	            "comment": "35830评论",
+	            "address": "北京朝阳区",
+	            "price": "19.9",
+	            "link" : "/",
+	            "id" : "2"
+	        },{
+	           "title": "十渡聚龙湾玻璃栈道门票",
+	             "booktime": "可定今日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1704/d6/d62a708bc69472f5a3.img.jpg_200x200_5193a3b6.jpg",
+	            "comment": "721评论",
+	            "address": "北京十渡风景区",
+	            "price": "30",
+	            "link" : "/",
+	            "id" : "3"
+	        },{
+	            "title": "颐和园门票",
+	            "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1505/d2/d274c92de14c93da.water.jpg_200x200_2cce447f.jpg",
+	            "comment": "9940评论",
+	            "address": "北京海淀区",
+	            "price": "65",
+	            "link" : "/",
+	            "id" : "4"
+	       },{
+	            "title": "八达岭长城门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1604/1b/1b6778deafaf208f90.img.jpg_200x200_a99be6a3.jpg",
+	            "comment": "9519评论",
+	            "address": "北京·延庆县",
+	            "price": "43",
+	            "link" : "/",
+	            "id" : "5"
+	        },{
+	            "title": "水立方门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1501/40/40b2b6c951b28fdd.water.jpg_200x200_fdc48968.jpg",
+	            "comment": "873评论",
+	            "address": "北京·奥林匹克公园",
+	            "price": "14.4",
+	            "link" : "/",
+	            "id" : "6"
+	        },{
+	            "title": "恭王府门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_200x200_1bc99086.jpg",
+	            "comment": "3567评论",
+	            "address": "北京·西城区",
+	            "price": "20",
+	            "link" : "/",
+	            "id" : "7"
+	        },{
+	            "title": "慕田峪长城门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/201405/12/51b63883c25f5d87af3c08bb016e2bd7.jpg_200x200_8eb33f07.jpg",
+	            "comment": "5227评论",
+	            "address": "北京·怀柔区",
+	            "price": "38.4",
+	            "link" : "/",
+	            "id" : "8"
+	        },{
+	            "title": "北京杜莎夫人蜡像馆门票",
+	            "booktime": "可定明日",
+	              "cinema": "自拍神地",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/21/215f898bb73e63f790.water.jpg_200x200_b054b156.jpg",
+	            "comment": "3766评论",
+	            "address": "北京·前门大街",
+	            "price": "78",
+	            "link" : "/",
+	            "id" : "9"
+	        },{
+	            "title": "圆明园门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1608/4f/4fc3f5a1b838f279a3.water.jpg_200x200_e6528ef6.jpg",
+	            "comment": "7812评论",
+	            "address": "北京·海淀区",
+	            "price": "7.01",
+	            "link" : "/",
+	            "id" : "10"
+	        }],
+		    "classifyInfo": [{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1606/ca/3cf116008d8eff9a.png",
+	             "title": "华山",
+	 	         "link": "/",
+	 	         "id" : "1"
+	         },{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1704/91/b785bedbae2dab02.png",
+	             "title": "兵马俑",
+	             "link": "/",
+	             "id" : "2"
+	        },{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1703/5a/612ae0fee636d202.jpg",
+	             "title": "法门寺",
+	             "link": "/",
+	             "id" : "3"
+	         },{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1606/9d/c9182a4389d7969a.png",
+	             "title": "壶口瀑布",
+	             "link": "/",
+	             "id" : "4"
+	         },{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1706/82/3a5636877c18c602.png",
+	             "title": "清凉避暑",
+	             "link": "/",
+	             "id" : "5"
+	         }]
+ 		},
+		"长春": {
+ 			"city" : "长春",
+ 			"href" : "/city",
+	 		"spotInfo": [
+	     		{
+	     			"title" : "吊水壶",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/201403/07/b7d9030490b00f18cd98b23325f40e5c.jpg_195x140_45c1ab9e.jpg",
+	     			"line" : "11",
+	     			"link" : "/",
+	     			"id" : "1"
+	     		},
+	     		{
+	     			"title" : "伪满八大部",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1608/4f/4fc3f5a1b838f279a3.water.jpg_195x140_7f4a43e8.jpg",
+	     			"line" : "14",
+	     			"link" : "/",
+	     			"id" : "2"
+	     		},
+	    		{
+	    			"title" : "国信南山温泉",
+	    			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1511/d1/d15b414a07fdb54d90.water.jpg_195x140_4d42c020.jpg",
+	    			"line" : "33",
+	     			"link" : "/",
+	     			"id" : "3"
+	     		},
+	     		{
+	     			"title" : "长春世界雕塑公园",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1511/ab/ab840adc9e9c377290.img.jpg_195x140_2ab5c0ae.jpg",
+	     			"line" : "50",
+	     			"link" : "/",
+	     			"id" : "4"
+	     		},
+	    		{
+	     			"title" : "长影世纪城",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1706/8e/8ecc1496986d7d10a3.water.jpg_195x140_be4dd1c7.jpg",
+	     			"line" : "27",
+	    			"link" : "/",
+	    			"id" : "5"
+	     		},
+	     		{
+	     			"title" : "长影旧址博物馆",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1704/7d/7d7619de9c1936d2a3.water.jpg_195x140_35568b15.jpg",
+	    			"line" : "6",
+	     			"link" : "/",
+	     			"id" : "6"
+	     		}
+	     	],
+		    "recommendInfo":[
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	    			"number" : "2120",
+	     			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "1"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts3/1704/ce/7e52752773eb4802.jpg_160x160_e81099b1.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【晚出发】北京古北水镇1-2日游，可选宿特色客栈赠电瓶车",
+	     			"number" : "273",
+	     			"score" : "4.7",
+	     			"price" : "238",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "2"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts5/1705/36/c0c777c8fea69502.jpg_160x160_589dfa61.jpg",
+	    			"alt" :"可订明日",
+	    			"title" : "【10-11点晚出发 】八达岭长城+鸟巢水立方+什刹海一日游",
+	    			"number" : "1923",
+	    			"score" : "4.9",
+	     			"price" : "80",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "3"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts1/1603/cb/c30a2a3b06b0def7.jpg_160x160_f7b325bb.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【北京5大景点】广场+故宫+八达岭+鸟巢+水立方，配无线讲解",
+	    			"number" : "920",
+	    			"score" : "4.7",
+	     			"price" : "158",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "4"
+	    		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	    			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	     			"number" : "2120",
+	    			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "5"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	     			"number" : "2120",
+	     			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "6"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	     			"number" : "2120",
+	     			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "7"
+	     		},
+	    		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	     			"number" : "2120",
+	     			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "8"
+	     		}
+	     	],
+	     	"viewspotInfo": [{
+	            "title": "故宫门票",
+	            "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_200x200_1bc99086.jpg",
+	            "comment": "53823评论",
+	            "address": "北京东城区",
+	            "price": "20",
+	            "link" : "/",
+	            "id" : "1"
+	        },{
+	            "title": "北京欢乐谷门票",
+	             "booktime": "可定明日",
+	            "cinema": "娱乐先锋",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1508/a5/4003f9dd7bebf61eccbf64046e26d487.water.jpg_200x200_7690e4cd.jpg",
+	            "comment": "35830评论",
+	            "address": "北京朝阳区",
+	            "price": "19.9",
+	            "link" : "/",
+	            "id" : "2"
+	        },{
+	           "title": "十渡聚龙湾玻璃栈道门票",
+	             "booktime": "可定今日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1704/d6/d62a708bc69472f5a3.img.jpg_200x200_5193a3b6.jpg",
+	            "comment": "721评论",
+	            "address": "北京十渡风景区",
+	            "price": "30",
+	            "link" : "/",
+	            "id" : "3"
+	        },{
+	            "title": "颐和园门票",
+	            "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1505/d2/d274c92de14c93da.water.jpg_200x200_2cce447f.jpg",
+	            "comment": "9940评论",
+	            "address": "北京海淀区",
+	            "price": "65",
+	            "link" : "/",
+	            "id" : "4"
+	       },{
+	            "title": "八达岭长城门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1604/1b/1b6778deafaf208f90.img.jpg_200x200_a99be6a3.jpg",
+	            "comment": "9519评论",
+	            "address": "北京·延庆县",
+	            "price": "43",
+	            "link" : "/",
+	            "id" : "5"
+	        },{
+	            "title": "水立方门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1501/40/40b2b6c951b28fdd.water.jpg_200x200_fdc48968.jpg",
+	            "comment": "873评论",
+	            "address": "北京·奥林匹克公园",
+	            "price": "14.4",
+	            "link" : "/",
+	            "id" : "6"
+	        },{
+	            "title": "恭王府门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_200x200_1bc99086.jpg",
+	            "comment": "3567评论",
+	            "address": "北京·西城区",
+	            "price": "20",
+	            "link" : "/",
+	            "id" : "7"
+	        },{
+	            "title": "慕田峪长城门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/201405/12/51b63883c25f5d87af3c08bb016e2bd7.jpg_200x200_8eb33f07.jpg",
+	            "comment": "5227评论",
+	            "address": "北京·怀柔区",
+	            "price": "38.4",
+	            "link" : "/",
+	            "id" : "8"
+	        },{
+	            "title": "北京杜莎夫人蜡像馆门票",
+	            "booktime": "可定明日",
+	              "cinema": "自拍神地",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/21/215f898bb73e63f790.water.jpg_200x200_b054b156.jpg",
+	            "comment": "3766评论",
+	            "address": "北京·前门大街",
+	            "price": "78",
+	            "link" : "/",
+	            "id" : "9"
+	        },{
+	            "title": "圆明园门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1608/4f/4fc3f5a1b838f279a3.water.jpg_200x200_e6528ef6.jpg",
+	            "comment": "7812评论",
+	            "address": "北京·海淀区",
+	            "price": "7.01",
+	            "link" : "/",
+	            "id" : "10"
+	        }],
+		    "classifyInfo": [{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1606/ca/3cf116008d8eff9a.png",
+	             "title": "华山",
+	 	         "link": "/",
+	 	         "id" : "1"
+	         },{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1704/91/b785bedbae2dab02.png",
+	             "title": "兵马俑",
+	             "link": "/",
+	             "id" : "2"
+	        },{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1703/5a/612ae0fee636d202.jpg",
+	             "title": "法门寺",
+	             "link": "/",
+	             "id" : "3"
+	         },{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1606/9d/c9182a4389d7969a.png",
+	             "title": "壶口瀑布",
+	             "link": "/",
+	             "id" : "4"
+	         },{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1706/82/3a5636877c18c602.png",
+	             "title": "清凉避暑",
+	             "link": "/",
+	             "id" : "5"
+	         }]
+ 		},
+		"长沙": {
+ 			"city" : "长沙",
+ 			"href" : "/city",
+	 		"spotInfo": [
+	     		{
+	     			"title" : "爱晚亭",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/201303/04/1ad9f7e93228c5f0c8d65eac.jpg_195x140_cdf911c6.jpg",
+	     			"line" : "11",
+	     			"link" : "/",
+	     			"id" : "1"
+	     		},
+	     		{
+	     			"title" : "刘少奇纪念馆",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1611/3b/3bc9bf1a21f8889ea3.water.jpg_195x140_a87c691b.jpg",
+	     			"line" : "14",
+	     			"link" : "/",
+	     			"id" : "2"
+	     		},
+	    		{
+	    			"title" : "岳麓山",
+	    			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1412/5b/42e365964738049294a28c8c537d048d.water.jpg_195x140_e74f6549.jpg",
+	    			"line" : "33",
+	     			"link" : "/",
+	     			"id" : "3"
+	     		},
+	     		{
+	     			"title" : "大围山峡谷漂流",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1706/6b/6b4dee5d6ffbc894a3.img.png_195x140_a105256b.png",
+	     			"line" : "50",
+	     			"link" : "/",
+	     			"id" : "4"
+	     		},
+	    		{
+	     			"title" : "天心阁",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1412/3a/4e512a82cefae650f5196ad01da3f698.water.jpg_195x140_ee102ec4.jpg",
+	     			"line" : "27",
+	    			"link" : "/",
+	    			"id" : "5"
+	     		},
+	     		{
+	     			"title" : "铜官古窑址",
+	     			"imgsrc" : "http://img1.qunarzz.com/sight/p0/1706/66/66aa4afcdbb8547a3.water.jpg_195x140_35ecd787.jpg",
+	    			"line" : "6",
+	     			"link" : "/",
+	     			"id" : "6"
+	     		}
+	     	],
+		    "recommendInfo":[
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	    			"number" : "2120",
+	     			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "1"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts3/1704/ce/7e52752773eb4802.jpg_160x160_e81099b1.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【晚出发】北京古北水镇1-2日游，可选宿特色客栈赠电瓶车",
+	     			"number" : "273",
+	     			"score" : "4.7",
+	     			"price" : "238",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "2"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts5/1705/36/c0c777c8fea69502.jpg_160x160_589dfa61.jpg",
+	    			"alt" :"可订明日",
+	    			"title" : "【10-11点晚出发 】八达岭长城+鸟巢水立方+什刹海一日游",
+	    			"number" : "1923",
+	    			"score" : "4.9",
+	     			"price" : "80",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "3"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts1/1603/cb/c30a2a3b06b0def7.jpg_160x160_f7b325bb.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【北京5大景点】广场+故宫+八达岭+鸟巢+水立方，配无线讲解",
+	    			"number" : "920",
+	    			"score" : "4.7",
+	     			"price" : "158",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "4"
+	    		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	    			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	     			"number" : "2120",
+	    			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "5"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	     			"number" : "2120",
+	     			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "6"
+	     		},
+	     		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	     			"number" : "2120",
+	     			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "7"
+	     		},
+	    		{
+	     			"imgsrc" : "http://img1.qunarzz.com/p/tts7/1703/55/c3c94f6eda001c02.jpg_160x160_927c7fca.jpg",
+	     			"alt" :"可订明日",
+	     			"title" : "【爆款】 北京八达岭长城+十三陵定陵含地宫鸟巢纯玩一日游",
+	     			"number" : "2120",
+	     			"score" : "4.8",
+	     			"price" : "139",
+	     			"place" : "北京",
+	     			"link" : "/",
+	     			"id" : "8"
+	     		}
+	     	],
+	     	"viewspotInfo": [{
+	            "title": "故宫门票",
+	            "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_200x200_1bc99086.jpg",
+	            "comment": "53823评论",
+	            "address": "北京东城区",
+	            "price": "20",
+	            "link" : "/",
+	            "id" : "1"
+	        },{
+	            "title": "北京欢乐谷门票",
+	             "booktime": "可定明日",
+	            "cinema": "娱乐先锋",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1508/a5/4003f9dd7bebf61eccbf64046e26d487.water.jpg_200x200_7690e4cd.jpg",
+	            "comment": "35830评论",
+	            "address": "北京朝阳区",
+	            "price": "19.9",
+	            "link" : "/",
+	            "id" : "2"
+	        },{
+	           "title": "十渡聚龙湾玻璃栈道门票",
+	             "booktime": "可定今日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1704/d6/d62a708bc69472f5a3.img.jpg_200x200_5193a3b6.jpg",
+	            "comment": "721评论",
+	            "address": "北京十渡风景区",
+	            "price": "30",
+	            "link" : "/",
+	            "id" : "3"
+	        },{
+	            "title": "颐和园门票",
+	            "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1505/d2/d274c92de14c93da.water.jpg_200x200_2cce447f.jpg",
+	            "comment": "9940评论",
+	            "address": "北京海淀区",
+	            "price": "65",
+	            "link" : "/",
+	            "id" : "4"
+	       },{
+	            "title": "八达岭长城门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1604/1b/1b6778deafaf208f90.img.jpg_200x200_a99be6a3.jpg",
+	            "comment": "9519评论",
+	            "address": "北京·延庆县",
+	            "price": "43",
+	            "link" : "/",
+	            "id" : "5"
+	        },{
+	            "title": "水立方门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1501/40/40b2b6c951b28fdd.water.jpg_200x200_fdc48968.jpg",
+	            "comment": "873评论",
+	            "address": "北京·奥林匹克公园",
+	            "price": "14.4",
+	            "link" : "/",
+	            "id" : "6"
+	        },{
+	            "title": "恭王府门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_200x200_1bc99086.jpg",
+	            "comment": "3567评论",
+	            "address": "北京·西城区",
+	            "price": "20",
+	            "link" : "/",
+	            "id" : "7"
+	        },{
+	            "title": "慕田峪长城门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/201405/12/51b63883c25f5d87af3c08bb016e2bd7.jpg_200x200_8eb33f07.jpg",
+	            "comment": "5227评论",
+	            "address": "北京·怀柔区",
+	            "price": "38.4",
+	            "link" : "/",
+	            "id" : "8"
+	        },{
+	            "title": "北京杜莎夫人蜡像馆门票",
+	            "booktime": "可定明日",
+	              "cinema": "自拍神地",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/21/215f898bb73e63f790.water.jpg_200x200_b054b156.jpg",
+	            "comment": "3766评论",
+	            "address": "北京·前门大街",
+	            "price": "78",
+	            "link" : "/",
+	            "id" : "9"
+	        },{
+	            "title": "圆明园门票",
+	             "booktime": "可定明日",
+	            "imgUrl": "http://img1.qunarzz.com/sight/p0/1608/4f/4fc3f5a1b838f279a3.water.jpg_200x200_e6528ef6.jpg",
+	            "comment": "7812评论",
+	            "address": "北京·海淀区",
+	            "price": "7.01",
+	            "link" : "/",
+	            "id" : "10"
+	        }],
+		    "classifyInfo": [{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1606/ca/3cf116008d8eff9a.png",
+	             "title": "华山",
+	 	         "link": "/",
+	 	         "id" : "1"
+	         },{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1704/91/b785bedbae2dab02.png",
+	             "title": "兵马俑",
+	             "link": "/",
+	             "id" : "2"
+	        },{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1703/5a/612ae0fee636d202.jpg",
+	             "title": "法门寺",
+	             "link": "/",
+	             "id" : "3"
+	         },{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1606/9d/c9182a4389d7969a.png",
+	             "title": "壶口瀑布",
+	             "link": "/",
+	             "id" : "4"
+	         },{
+	             "imgUrl":"http://img1.qunarzz.com/piao/fusion/1706/82/3a5636877c18c602.png",
+	             "title": "清凉避暑",
+	             "link": "/",
+	             "id" : "5"
+	         }]
+ 		},
+ 		"swiperInfo": [{
+    		"imgUrl": "http://img1.qunarzz.com/piao/fusion/1706/1c/b760623a69a5af02.jpg_640x200_2c6972e5.jpg",
+     		"link":"/"
+     	},{
+     		"imgUrl": "http://img1.qunarzz.com/piao/fusion/1706/24/4e94ef994058c002.jpg_640x200_8ee40266.jpg",
+     		"link":"/"
+     	},{
+     		"imgUrl": "http://img1.qunarzz.com/piao/fusion/1707/8a/581caa2e017e202.jpg_640x200_674b3ec7.jpg",
+     		"link":"/"
+     	},{
+     		"imgUrl": "http://img1.qunarzz.com/piao/fusion/1705/4b/50f24bd241383e02.jpg_640x200_f8c673da.jpg",
+     		"link":"/"
+     	}],
+        "cityInfo": [{
+             
+             "title": "天津",
+             "link": "/",
+             "id" : "1"
+         },{
+             
+             "title": "葫芦岛",
+             "link": "/",
+             "id" : "2"
+         },{
+             
+             "title": "秦皇岛",
+             "link": "/",
+             "id" : "3"
+         },{
+            
+             "title": "济南",
+             "link": "/",
+             "id" : "4"
+         },{
+            
+             "title": "成都",
+             "link": "/",
+             "id" : "5"
+         },{
+            
+            "title": "三亚",
+             "link": "/",
+             "id" : "6"
+         },{
+            
+             "title": "丽江",
+             "link": "/",
+             "id" : "7"
+         },{
+            
+             "title": "西安",
+             "link": "/",
+             "id" : "8"
+         }]
+ 	}
+ }
