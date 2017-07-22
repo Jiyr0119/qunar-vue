@@ -3,7 +3,7 @@
 		<div class="active-img">
 			<img src="https://img1.qunarzz.com/piao/fusion/1706/8d/c33af08f4c1f2702.jpg_270x270_8ec6a463.jpg" class="img-active">
 			<div class="img-infocon">
-				<span class="img-issue">期号：27</span>
+				<span class="img-issue">期号:27</span>
 			</div>
 		</div>
 		<div class="prdcard-con border-bottom">
