@@ -21,7 +21,7 @@ clone之后，先npm install，用cnpm更好。
 
 ![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/oneday.jpg)
 
-![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/oneday2.jpg)
+![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/onday2.jpg)
 
 周末游
 
