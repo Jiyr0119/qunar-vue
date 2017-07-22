@@ -7,23 +7,22 @@ clone之后，先npm install，用cnpm更好。
 
 本地运行  npm run dev/ npm start。
 
-#展示一下效果
 
-首页
+# 首页
 
 ![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/index.jpg)
 
-搜索页
+# 搜索页
 
 ![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/search.jpg)
 
-一日游
+# 一日游
 
 ![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/oneday.jpg)
 
 ![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/onday2.jpg)
 
-周末游
+# 周末游
 
 ![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/weekend.jpg)
 
@@ -31,7 +30,7 @@ clone之后，先npm install，用cnpm更好。
 
 ![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/weekend3.jpg)
 
-详情页
+# 详情页
 
 ![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/detail.jpg)
 
