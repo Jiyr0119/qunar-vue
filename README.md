@@ -10,33 +10,33 @@ clone之后，先npm install，用cnpm更好。
  
 # 首页
 
-![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/index.jpg)
+![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/index.jpg1)
 
 # 搜索页
 
-![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/search.jpg)
+![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/search.jpg1)
 
 # 一日游
 
-![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/oneday.jpg)
+![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/oneday.jpg1)
 
-![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/onday2.jpg)
+![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/onday2.jpg1)
 
 # 周末游
 
-![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/weekend.jpg)
+![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/weekend.jpg1)
 
-![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/weekend2.jpg)
+![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/weekend2.jpg1)
 
-![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/weekend3.jpg)
+![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/weekend3.jpg1)
 
 # 详情页
 
-![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/detail.jpg)
+![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/detail.jpg1)
 
-![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/detail2.jpg)
+![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/detail2.jpg1)
 
-![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/detail3.jpg)
+![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/detail3.jpg1)
 
 
 
