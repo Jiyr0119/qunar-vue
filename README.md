@@ -34,9 +34,9 @@ clone之后，先npm install，用cnpm更好。
 
 ![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/detail.jpg)
 
-![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/detail2.jpg1)
+![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/detail2.jpg)
 
-![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/detail3.jpg1)
+![image](https://github.com/Jiyr0119/ComeHere/blob/master/showproject/detail3.jpg)
 
 
 
