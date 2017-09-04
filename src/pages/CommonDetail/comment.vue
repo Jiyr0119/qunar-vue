@@ -78,6 +78,7 @@ export default {
 		commentFoldBtn: function (e) {
 			//操作dom
 			var id=e.currentTarget.id
+			console.log(id)
 			var height=document.getElementById(id).previousSibling
 			var loadMore=document.getElementById(id).firstChild
 			if(height.previousSibling.style.height=="105px"){

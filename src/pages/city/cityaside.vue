@@ -1,6 +1,6 @@
 <template>
 	<ul class="letter" id="letter" >
-		<li class="letter-list" @click="cityInitialHandleClick(item)" @touchmove.prevent="cityInitialHandleMousedown($event)" v-for="(item, index) in cityInitialSortMethod">{{item.initialSort}}</li>	
+		<li class="letter-list" @click="cityInitialHandleClick(item)" @touchmove.prevent="cityInitialHandleMousedown()" v-for="(item, index) in cityInitialSortMethod">{{item.initialSort}}</li>	
 	</ul>
 </template>
 
